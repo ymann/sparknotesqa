@@ -1,0 +1,2184 @@
+{
+  "data": [
+    {
+      "qa_list": [
+        {
+          "question": "In his foreword, H.P. Loxias describes the book as what type of work?",
+          "answers": [
+            "A tragedy",
+            "A love story",
+            "A soliloquy",
+            "A meditation"
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "What was Bradley Pearson’s lifelong profession, which he quit prior to the events of the novel?",
+          "answers": [
+            "Law professor",
+            "Plastic surgeon",
+            "Tax inspector",
+            "Garbage collector"
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "In his forward, who does Bradley Pearson dedicate the novel to?",
+          "answers": [
+            "Priscilla",
+            "Julian",
+            "his mother",
+            "An unnamed inspirational person"
+          ],
+          "label": 3,
+          "p_label": 2
+        },
+        {
+          "question": "In what month does the novel open, with Bradley about to leave for his seaside cottage?",
+          "answers": [
+            "January",
+            "March",
+            "May",
+            "June"
+          ],
+          "label": 2,
+          "p_label": 4
+        },
+        {
+          "question": "Since Bradley helped Arnold get his first book published, he no longer respects Arnold’s books because ___.",
+          "answers": [
+            "They’re too short",
+            "They’re too romantic",
+            "They’re published yearly",
+            "They’re trashy mysteries"
+          ],
+          "label": 2,
+          "p_label": 5
+        }
+      ],
+      "summary": [
+        [
+          "The novel opens with a two-page foreword by the editor, P. Loxias.",
+          "Loxias is responsible for bringing the book to publication, although he met the author after the events dramatized.",
+          "He says that the text deals with man's creative struggle for wisdom and truth in art.",
+          "For this reason, Loxias remarks, it is a love story."
+        ],
+        [
+          "Bradley Pearson introduces his novel by saying that the events in it took place a few years before, when he was fifty-eight.",
+          "After having written three books, two novels and a book of \"Pensees\" or philosophical thoughts, he had decided to quit his lifelong job as a tax inspector in order to create a master novel.",
+          "Unfortunately even with copious amounts of time, he found himself struck by writer's block.",
+          "For this reason, he rented a cottage on the English coast for the summer, an action that just precedes the narrative of his tale."
+        ],
+        [
+          "Bradley further explains that he will tell his story in a \"modern\" chronological manner, and that good art, which he is trying to create, represents a form of truth.",
+          "He dedicates his novel to an unnamed person who has inspired him towards creation."
+        ],
+        [
+          "From the Beginning to Bradley's departure from the Baffins"
+        ],
+        [
+          "It is a late May afternoon and Bradley is about to leave for his rented seaside cottage.",
+          "He hesitates for a few moments to check his bags once again.",
+          "This hesitation sets the novel's events in motion.",
+          "The doorbell rings.",
+          "It is Bradley's ex-wife's brother, Francis Marloe.",
+          "He looks dirty and disheveled and Bradley does not recognize him.",
+          "Francis has come because Bradley's ex-wife, Christian, has just returned to London from America following the death of her American husband.",
+          "Francis believes that Christian will soon visit Bradley and would like Bradley to put in a good word for him; Francis has debts and his sister has become rich.",
+          "Francis once had been a doctor, but had his license taken away due to his illegal distribution of pharmaceuticals.",
+          "Bradley feels repulsed to see his ex-brother-in-law and to hear about his ex-wife.",
+          "Bradley insists that Christian will not visit him because they detest each other.",
+          "Bradley then bluntly suggests that Francis leave, but before Francis can do so, the phone rings.",
+          "Arnold Baffin is on the line and begs Bradley to come to his house immediately; Arnold fears that he may have killed his wife.",
+          "Bradley agrees to come and invites Francis along."
+        ],
+        [
+          "Arnold Baffin is a very successful younger writer whom Bradley considers his protégé; Bradley helped him get his first book published.",
+          "Since then, Bradley has not respected Arnold's novels because they lack artistry, and are produced yearly.",
+          "Bradley notes to the reader that although some would later say he envied Arnold's fame and wealth, he never did since Arnold's art lacked a true connection to truth."
+        ],
+        [
+          "When they arrive at the Baffins', Arnold explains that he and Rachel got into a physical fight and after both hitting each other Rachel ran into the fireplace poker that he was holding.",
+          "She passed out.",
+          "When she woke, she locked herself in their bedroom and he fears that she might be dead inside.",
+          "Bradley gets Rachel to open the door and finds her lying under a sheet with a bruise on her face, looking unwell.",
+          "Francis Marloe determines that she will be fine.",
+          "Rachel will not talk to Arnold.",
+          "She privately tells Bradley that a certain brutality exists in marriage and that love can die within it, as it did for her long ago when Bradley first hit her.",
+          "Bradley soon leaves her to rest and goes downstairs to get a drink with Francis and Arnold."
+        ],
+        [
+          "Arnold and Francis seem happy talking with one another, but Bradley rudely gets Francis to leave.",
+          "Arnold likes Francis and has invited him to return again, a fact that upsets Bradley since he does not want Francis involved with his friends.",
+          "Arnold tells Bradley that despite their fight, he and Rachel have a good marriage and that marriages endure in much more difficult times.",
+          "He predicts that she will come down in a few hours.",
+          "Bradley says nothing, but informs Arnold that he is soon leaving for Europe (he has kept the location of his seaside cottage secret for privacy).",
+          "He leaves."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "When Celie discovers that her second child is missing, what does she suspect Alphonso has done?",
+          "answers": [
+            "Sold her baby",
+            "Killed her baby",
+            "Abandoned her baby",
+            "Kidnapped her baby"
+          ],
+          "label": 0,
+          "p_label": 1
+        },
+        {
+          "question": "What is the context of Celie's first exposure to Shug Avery?",
+          "answers": [
+            "A blues record",
+            "A concert poster",
+            "A radio interview",
+            "A photograph"
+          ],
+          "label": 3,
+          "p_label": 3
+        },
+        {
+          "question": "Who did Mr. ___ intend to marry before marrying Celie?",
+          "answers": [
+            "Olivia",
+            "Nettie",
+            "Sofia",
+            "Corrine"
+          ],
+          "label": 1,
+          "p_label": 3
+        },
+        {
+          "question": "What does Celie do on her wedding day?",
+          "answers": [
+            "Untangle her stepdaughter's hair",
+            "Bandage her wounds",
+            "Cook dinner",
+            "All of the above"
+          ],
+          "label": 3,
+          "p_label": 5
+        },
+        {
+          "question": "When she sees her outside the fabric store, why does Celie suspect Olivia is her lost daughter?",
+          "answers": [
+            "She has Celie's eyes",
+            "She has Celie's voice",
+            "Celie named her Olivia",
+            "Answers A) and C)"
+          ],
+          "label": 3,
+          "p_label": 6
+        }
+      ],
+      "summary": [
+        [
+          "The Color Purple opens with Celie’s memory\nof her father’s command that she stay quiet about his abuse of her.",
+          "The rest of the novel is composed of letters, and we begin with\nthe first of many private letters Celie writes to God.",
+          "In her first\nletter, Celie asks for guidance because she does not understand\nwhat is happening to her.",
+          "Only fourteen, Celie is already pregnant\nwith her second child—the result of rape and incest.",
+          "Alphonso, Celie’s\nfather, has turned to Celie for sexual gratification because Celie’s\nmother is ill and can no longer endure Alphonso’s sexual demands."
+        ],
+        [
+          "Celie’s mother dies.",
+          "Celie writes that Alphonso stole\nCelie’s first baby while she was sleeping and killed it in the woods,\nand she believes he will kill her second baby as well.",
+          "However,\nAlphonso does not kill the second baby, and Celie suspects that\nhe instead sold the child to a married couple.",
+          "Celie is left with\nher breasts filled with milk for no one."
+        ],
+        [
+          "From Celie’s fourth letter to God, we learn that Alphonso\nhas brought home a new wife, though this marriage does not end the physical\nand sexual abuse Celie endures.",
+          "Alphonso beats Celie for winking\nat a boy in church, though she may have just had something stuck\nin her eye.",
+          "Later, he beats her again for dressing “trampy.”"
+        ],
+        [
+          "Celie and her younger sister, Nettie, learn that a man,\nto whom Celie refers only as Mr. ______, has shown an interest in\nmarrying Nettie.",
+          "The man is recently widowed because his first wife\nwas murdered by her lover.",
+          "Alphonso’s new wife tells Celie and Nettie\nthat Mr. ______ also had a lover outside of marriage, a woman named Shug\nAvery.",
+          "The girls find a photograph of Shug, and her bright, glamorous\nface captivates Celie, who has never seen anyone like her."
+        ],
+        [
+          "Alphonso refuses to hand Nettie over to Mr. ______, stating\nthat she is far too young and inexperienced to marry a man with\nchildren.",
+          "Alphonso wants Nettie to continue her schooling and offers the\nman Celie instead.",
+          "Alphonso claims that though Celie is ugly, a liar,\nand “spoiled twice,” she is older and hardworking and owns her own\ncow, which she could bring into the marriage."
+        ],
+        [
+          "After brooding over the offer for a few months, Mr. ______ makes\nup his mind to take Celie.",
+          "Celie desperately wants to stay in school,\nbut Alphonso says she is too dumb to learn anything.",
+          "Celie spends\nher wedding day bandaging a wound from a rock Mr. ______’s son throws\nat her, untangling her screaming stepdaughters’ hair, and cooking\ndinner.",
+          "Celie spends a joyless wedding night with Mr. ______ on\ntop of her, all the while worrying about Nettie’s safety."
+        ],
+        [
+          "While in town one day, Celie catches sight of a young\ngirl who she thinks may be her lost daughter.",
+          "The girl closely resembles\nCelie, especially her eyes.",
+          "The little girl’s mother talks kindly\nwith Celie after she follows them into a fabric store, where Celie\nlearns that the mother calls her daughter Olivia, the same name\nCelie gave her own daughter and embroidered on her diapers before\nthe infant was taken away.",
+          "In the store, the racist shopkeeper treats\nOlivia’s mother poorly, making her buy thread she does not want\nand tearing off her new fabric without bothering to measure it."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What causes Mrs. Vance to retreat in shock when she calls to visit on Carrie at her apartment?",
+          "answers": [
+            "The smell of garbage",
+            "A dead body",
+            "Hurstwood’s outward appearance",
+            "The apartment’s modest furnishings"
+          ],
+          "label": 2,
+          "p_label": 0
+        },
+        {
+          "question": "What job does Carrie first get in New York?",
+          "answers": [
+            "Trolley driver",
+            "Chorus girl",
+            "Glove factory worker",
+            "Acting coach"
+          ],
+          "label": 1,
+          "p_label": 1
+        },
+        {
+          "question": "What does Carrie feel toward Hurstwood after she finds work as a chorus girl?",
+          "answers": [
+            "Indifference",
+            "Jealousy",
+            "Sympathy",
+            "Resentment"
+          ],
+          "label": 3,
+          "p_label": 1
+        },
+        {
+          "question": "What term do crowds of people shout at Hurstwood when he attempts to drive a trolley?",
+          "answers": [
+            "“Traitor!”",
+            "“Yokel!”",
+            "“Scab!”",
+            "“Maggot!”"
+          ],
+          "label": 2,
+          "p_label": 4
+        },
+        {
+          "question": "Who does Carrie decide to move in with after getting her first speaking part in New York?",
+          "answers": [
+            "The Vances",
+            "Lola",
+            "Mr. Ames",
+            "The captain"
+          ],
+          "label": 1,
+          "p_label": 5
+        }
+      ],
+      "summary": [
+        [
+          "Carrie encounters Mrs. Vance and invites her to visit.",
+          "Mrs. Vance senses that Hurstwood and Carrie are in difficult financial straits.",
+          "The meeting with her old friend increases Carrie's resentment toward Hurstwood's idleness.",
+          "Hurstwood turns to gambling and loses sixty dollars.",
+          "Mrs. Vance calls one day when Carrie is out, but Hurstwood's disheveled appearance shocks her so much that she does not wait for Carrie's return.",
+          "The news of the incident infuriates Carrie.",
+          "During a quarrel, Hurstwood drives Carrie to tears by insisting that their marriage is illegal.",
+          "Soon after, he loses more money gambling."
+        ],
+        [
+          "Carrie decides to look for work as an actress.",
+          "She finally gets a position as a chorus girl at twelve dollars a week.",
+          "She uses \"Carrie Madenda\" as her stage name.",
+          "Having found work so quickly, she resents Hurstwood's months of joblessness even more than she had before.",
+          "She insinuates that he is not actually looking for work when he goes out.",
+          "She resents her new position of having to support Hurstwood her small wage.",
+          "Now that she is paying the household expenses, her desire for new clothing and small ornaments grows.",
+          "Rather than paying rent, she buys a new pair of shoes, and Hurstwood begins buying groceries on credit.",
+          "Carrie befriends another chorus girl, Lola, and they start spending evenings out together."
+        ],
+        [
+          "Carrie receives a more important position and a six dollar raise, but she hides the news from Hurstwood.",
+          "She buys more clothes and again runs short on rent.",
+          "Hurstwood continues to buy on credit.",
+          "She and Hurstwood quarrel over expenses.",
+          "He knows that she is lying about her income because he sees the new things she has purchased.",
+          "Once, she spends a whole evening out with Lola and her friends.",
+          "They go to dinner, and Carrie is reminded of the Vances and Mr. Ames.",
+          "She wonders whether she would make a good actress and what Mr. Ames would think of her."
+        ],
+        [
+          "Carrie's show goes on the road, so she finds another position as a chorus girl for twenty dollars a week.",
+          "Carrie realizes that Hurstwood was lying about the business opportunity at the end of the summer.",
+          "She continues to pay expenses and keep the flat in order.",
+          "Hurstwood's clothes have started to become worn, and he stops pretending that he is looking for work.",
+          "However, the workers on the trolley lines begin striking for fewer hours and better wages, and to stave off his creditors Hurstwood decides to work as a driver on the trolleys--to become a scab."
+        ],
+        [
+          "On his first day at work, two policemen accompany him on the car.",
+          "People shout \"Scab!\"",
+          "at him from the street, and some strikers block the tracks with debris.",
+          "The policemen beat off the strikers.",
+          "Hurstwood and the conductor clear the tracks.",
+          "Hurstwood manages to drive away while the strikers toss stones at him.",
+          "Soon, however, they encounter a larger, angrier mob.",
+          "Someone hits Hurstwood and a pistol is fired, and Hurstwood quits the job then and there.",
+          "He returns home and reads the newspaper.",
+          "Carrie thinks he has quit out of laziness."
+        ],
+        [
+          "Lola asks Carrie if she wants to get an apartment together and split the rent.",
+          "Carrie replies that she is unsure.",
+          "Soon thereafter, she gets a speaking part in a play when the original actress quits.",
+          "She receives $35 a week for her role.",
+          "She has to buy clothes for the part, but rent day is coming.",
+          "She decides to move in with Lola because she will only have to pay twelve dollars a month for rent."
+        ],
+        [
+          "Carrie borrows twenty-five dollars from Lola.",
+          "When Hurstwood leaves for a walk, she writes him a note explaining that she is leaving him.",
+          "She leaves twenty dollars for him and moves out of the apartment.",
+          "When Hurstwood returns and finds the note and the money, he sits in the rocking chair for several hours, staring at the floor."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What does Gram suffer from in Coeur D'Alene?",
+          "answers": [
+            "Stroke",
+            "Heart attack",
+            "Food poisoning",
+            "Amnesia"
+          ],
+          "label": 0,
+          "p_label": 0
+        },
+        {
+          "question": "How many hours does it take Sal to drive to Lewiston?",
+          "answers": [
+            "8",
+            "4",
+            "2",
+            "6"
+          ],
+          "label": 1,
+          "p_label": 1
+        },
+        {
+          "question": "When Sal climbs up from the wrecked bus, who does she meet with?",
+          "answers": [
+            "A truck driver",
+            "A park ranger",
+            "A sheriff",
+            "A postal worker"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "Where has Gramps arranged for Gram to be sent?",
+          "answers": [
+            "Yellowstone",
+            "Kentucky",
+            "Illinois",
+            "California"
+          ],
+          "label": 1,
+          "p_label": 4
+        },
+        {
+          "question": "Under what trees is Gram buried?",
+          "answers": [
+            "Aspen",
+            "Pine",
+            "Cedar of Lebanon",
+            "Maple"
+          ],
+          "label": 0,
+          "p_label": 5
+        }
+      ],
+      "summary": [
+        [
+          "Gram falls unconscious, and Sal and Gramps rush her to the hospital in Coeur D'Alene, where the doctors tell them that Gram has had a stroke.",
+          "Despite the protests of the doctors, Gramps refuses to leave her side for even a second.",
+          "Sal, reflecting on grandfather's emotions, wonders if he suspects the snakebite caused the stroke and blames himself for taking her to the river.",
+          "Sal realizes then that just as Gramps should not blame himself for Gram's illness, so she cannot blame herself for her mother's miscarriage.",
+          "She then recalls the process through which their dog weaned her puppies: though the beagle was protective and caring when the puppies were first born, after a few months, she roughly pushed them away.",
+          "Sal's mother had explained to Sal that the mother dog wanted her puppies to be able to take care of themselves in case something happened to her, and Sal realizes that in a way, her mother's trip to Lewiston was her way of trying to make Sal more able to take care of herself.",
+          "Later that night, Gramps tells Sal that he must stay with Gram, but hands her the car keys and all his money, tacitly giving her permission to drive to Lewiston herself."
+        ],
+        [
+          "Sal spends four hair-raising hours driving down to Lewiston.",
+          "When she reaches the tall hill just outside the city, she creeps down the hairpin curves, finally stopping at an overlook.",
+          "Another man stops and, pointing out the broken trees and a faintly glinting hunk of metal, begins to tell her about the terrible bus crash that took place a year ago in exactly that spot.",
+          "He goes on to tell her that only one person survived the crash, but Sal already knows all this."
+        ],
+        [
+          "As dawn is gathering, Sal climbs down the hillside toward the overturned bus.",
+          "She looks into its mangled and moldy interior and sadly realizes that there is nothing she can do here.",
+          "When she climbs back up to the car, a sheriff greets her.",
+          "At first he is angry with her for climbing around the bus and driving at the age of thirteen, but when Sal tells him her story, he drives her to her mother's grave, which is on a hill overlooking the river.",
+          "Sal sits down to drink in all the details of this spot and, to her joy, finds a nearby \"singing tree,\" a tree with a songbird living in its highest branches.",
+          "Only then she leaves, knowing that, in a way, her mother is alive in this place."
+        ],
+        [
+          "The sheriff drives Sal back to Lewiston, lecturing her about the dangers of driving without proper training.",
+          "Sal questions him about the accident, explaining what she learned the day she decided to talk to Mrs. Cadaver.",
+          "Mrs. Cadaver had been the lone survivor of the terrible crash, and had sat next to Sal's mother during the entire trip, listening to her stories about Bybanks and her daughter.",
+          "After the accident, Sal's father, who came to Lewiston to bury his wife, met Mrs. Cadaver and discussed his wife's last days with her.",
+          "During the conversation with Margaret, Sal had asked her if she planned to marry her father, and Margaret, surprised, explained that her father was still too much in love with her mother to marry anyone else."
+        ],
+        [
+          "When they arrive in Coeur D'Alene, Sal discovers that Gram has died.",
+          "She finds Gramps, who has already arranged for Gram to be sent back to Kentucky, in a nearby motel.",
+          "The two move mournfully through the room the rest of the day, and that night, Sal helps Gramps recite his nightly, now slightly altered, mantra: \"This ain't my marriage bed, but it will have to do.\""
+        ],
+        [
+          "Sal resumes her narration a few months later.",
+          "She, along with her father and Gramps, are back in Bybanks.",
+          "Gram is buried in a nearby aspen grove, and Gramps continues to give Sal driving lessons.",
+          "The pair now practices \"walking in other people's moccasins\"—routinely imagining how they would feel if they were one of their friends or family members.",
+          "Sal shares one other Native American myth—that of Estsanatlehi, who is born, dies, and is reincarnated ad infinitum.",
+          "Sal and Ben exchange letters, and Sal looks forward to an upcoming visit from all her Euclid friends: Ben, Mrs. Cadaver, Phoebe, and Mrs. Partridge.",
+          "Sal closes her story, content with what she has, accepting of what has been, and anticipating what will come."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "Why does Jacques Saunière pull the Caravaggio painting off of the wall in the Louvre?",
+          "answers": [
+            "To steal it",
+            "To trigger the gallery’s alarm and protect himself from attacker",
+            "To destroy it",
+            "To trap his prey"
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "On the night of Sauniere’s death, what was the subject of Robert Langdon’s lecture?",
+          "answers": [
+            "Da Vinci",
+            "Religious ethicality",
+            "Gun control",
+            "Religious symbology"
+          ],
+          "label": 3,
+          "p_label": 1
+        },
+        {
+          "question": "What does the Teacher instruct Silas to retrieve from Saint-Sulpice?",
+          "answers": [
+            "The Caravaggio painting",
+            "Gold bars",
+            "The keystone",
+            "A Bible"
+          ],
+          "label": 2,
+          "p_label": 3
+        },
+        {
+          "question": "What is Silas’s personal mantra?",
+          "answers": [
+            "“Pain is good.”",
+            "“God is good.”",
+            "“God is pain.”",
+            "“No pain, no gain.”"
+          ],
+          "label": 0,
+          "p_label": 3
+        },
+        {
+          "question": "What aspect of France’s culture does Langdon think the Eiffel Tower reflects?",
+          "answers": [
+            "Ethnocentrism",
+            "Diversity",
+            "Machismo",
+            "Attention to detail"
+          ],
+          "label": 2,
+          "p_label": 4
+        }
+      ],
+      "summary": [
+        [
+          "Jacques Saunière is in the Grand Gallery of the Louvre.",
+          "He pulls a Caravaggio painting off the wall in order to trigger\nthe gallery’s alarm and seal himself inside, away from an albino\nattacker who is pursuing him.",
+          "But the protective metal cage does\nlittle to stop the man, who pulls a pistol on Saunière and asks\nhim to reveal where “it” is.",
+          "Saunière at first pretends that he\ndoes not know and then gives the albino a false location.",
+          "The false\nlocation is a lie that Saunière has carefully rehearsed.",
+          "The albino\nresponds that the “others”—three of Saunière’s partners—had said\nthe same thing.",
+          "Then he shoots Saunière in the stomach, says, “Pain\nis good,” and leaves him to die.",
+          "Saunière realizes that his three\npartners are dead, and that if he dies, the secret they all shared\nwill die with him.",
+          "He is desperate to prevent that from happening\nbut realizes he has little time left."
+        ],
+        [
+          "Robert Langdon is asleep in his room at the Ritz in Paris\nwhen the concierge calls to say he has an important visitor.",
+          "Langdon,\nremembering his lecture on religious symbology earlier that night,\nfigures the visitor is some conservative he offended and tells the\nconcierge to send the guest away.",
+          "Langdon has a history of being\ncontroversial—the previous year, he got into an altercation at the\nVatican."
+        ],
+        [
+          "After a while, the concierge rings again to let Langdon\nknow the guest is on his way to his room.",
+          "The visitor, an agent\nwith the French Judicial Police, questions Langdon about his earlier\nplans to meet with his acquaintance Jacques Saunière for drinks\nafter the lecture.",
+          "Langdon says that Saunière stood him up.",
+          "The\nagent tells Langdon that Saunière is dead and shows him a picture\nof Saunière’s body, which is arranged in a specific way.",
+          "Langdon\nis horrified and also afraid—he saw a corpse arranged in a similar\nway before, and it led to the incident at the Vatican."
+        ],
+        [
+          "The albino attacker, Silas, goes to a house that seems\nto belong to his religious organization, where he has a bedroom.",
+          "He finds a cell phone in the bottom drawer of the nightstand and\ncalls the Teacher.",
+          "He tells the Teacher that he has killed Saunière\nand Saunière’s three collaborators, and that each of them named\nthe Church of Saint- as the secret resting place for the\nkeystone that he and the Teacher and their comrades seek.",
+          "The Teacher\ntells Silas to go to Saint-Sulpice immediately and retrieve the\nkeystone.",
+          "Before obeying, Silas engages in some “corporal mortification,”\na masochistic practice of physical self-punishment, as a way of\ndoing penance for sins.",
+          "Silas tightens the barbed cilice, a punishment\nbelt, around his thigh, and flagellates himself, all the while repeating\nhis mantra: “Pain is good.”",
+          ""
+        ],
+        [
+          "Langdon leaves the hotel, and Jerome Collet, an agent\nof the French Judicial Police, drives him across Paris to the Louvre.",
+          "In the car Langdon muses about the history of some of Paris’s famous\narchitecture.",
+          "He wishes he could be with his former flame, Vittoria,\non the Eiffel Tower, a structure he mocks as a reflection of the\nculture’s machismo.",
+          "Collet drops him off by the glass pyramid, the\nentrance to the museum designed by I.M. Pei.",
+          "Inside, Langdon meets\nBezu Fache, the police captain nicknamed “the Bull.”"
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "In what month do schools in the camp close?",
+          "answers": [
+            "June",
+            "May",
+            "July",
+            "January"
+          ],
+          "label": 0,
+          "p_label": 0
+        },
+        {
+          "question": "How does Papa feel about the closing of the camp and the relocation as he reads the news?",
+          "answers": [
+            "Indifferent",
+            "Disgusted",
+            "Happy",
+            "Fearful"
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "What does Papa plan to ask the government for, to help Japanese camp leavers?",
+          "answers": [
+            "A loan",
+            "A grant",
+            "Tools",
+            "Jobs"
+          ],
+          "label": 0,
+          "p_label": 1
+        },
+        {
+          "question": "What happens on August 6, 1945?",
+          "answers": [
+            "The camp closes",
+            "Mama runs away",
+            "Hiroshima is bombed",
+            "Woody is killed"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "In what month does Papa finally leave the camp?",
+          "answers": [
+            "October",
+            "December",
+            "September",
+            "January"
+          ],
+          "label": 0,
+          "p_label": 2
+        }
+      ],
+      "summary": [
+        [
+          "In June 1945,\nthe schools close and the high school produces a final yearbook, Valediction 1945, bearing\na photo of a hand squeezing pliers on a length of barbed wire.",
+          "Cultivation\nof the farm stops, and the administration auctions off the equipment.",
+          "The army announces that the camps will close by December 1,\nand families who do not leave will be scheduled for resettlement,\neither to a place of their choosing or to their former communities.",
+          "Papa is stubborn and chooses to let the government arrange for the\nWakatsuki family’s resettlement.",
+          "His boats are gone, and a new law\nhas made it illegal for Issei to hold commercial fishing licenses.",
+          "He spends his time reading the news of the war and relocation with\ndisgust."
+        ],
+        [
+          "Papa and Mama regret not leaving sooner because there\nis no more housing available, and Mama’s friend says that the difficulties the\nJapanese Americans experienced when they were evacuated in 1942 are\nstarting again.",
+          "Jeanne’s parents argue about who is to blame.",
+          "Mama\nasks Jeanne for a back massage, but Papa insists that he give it.",
+          "Mama has not seen a doctor because there are too many patients,\nand she repeats her friend’s comment that it is like 1942 all over\nagain.",
+          "Wakatsuki notes that the barracks are slowly being deserted\nand that the moss in Papa’s rock garden has dried out.",
+          "Papa reports\nthat block leaders are petitioning the administration to keep the\ncamp open until everyone has a place to stay.",
+          "He plans to ask the government\nfor a loan so that he can organize a cooperative of returning Japanese\nto build a housing project.",
+          "He feels the government owes it to returning\nJapanese, but neither he nor Mama have much hope for the plan’s\nsuccess."
+        ],
+        [
+          "On August 6, 1945,\nthe United States drops an atomic bomb on Hiroshima, ending the\nwar and any hopes of staying in the camps.",
+          "The newspapers print\nphotos of the mushroom cloud over Hiroshima, but few people realize\nthe magnitude of what has happened.",
+          "A week later, Americans dance\nin the street at the news of the Japanese surrender, and Japanese\nin the camps rejoice that they are no longer the enemy.",
+          "Papa reflects\non his now-departed children and his family in Hiroshima.",
+          "As busloads\nof people leave the camp, Papa continues reading the newspaper and\nwaiting for his turn to leave the camp, which finally comes in October 1945."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "Where do Janie and Tea Cake get married?",
+          "answers": [
+            "Jacksonville",
+            "Eatonville",
+            "Miami",
+            "The Everglades"
+          ],
+          "label": 0,
+          "p_label": 0
+        },
+        {
+          "question": "Who ripped off Mrs. Tyler?",
+          "answers": [
+            "Nunkie",
+            "Tea Cake",
+            "Hezekiah",
+            "Who Flung"
+          ],
+          "label": 3,
+          "p_label": 0
+        },
+        {
+          "question": "How did Tea Cake spend Janie's money?",
+          "answers": [
+            "He used it to buy Janie a new dress.",
+            "He bought drinks for everyone at the local bar.",
+            "He threw a party for his coworkers.",
+            "He sent flowers and presents to another woman."
+          ],
+          "label": 2,
+          "p_label": 0
+        },
+        {
+          "question": "How does Tea Cake earn back the money he took from Janie?",
+          "answers": [
+            "Farming",
+            "Gambling",
+            "Robbery",
+            "Prizefighting"
+          ],
+          "label": 1,
+          "p_label": 1
+        },
+        {
+          "question": "How does Tea Cake react when Janie tells him about her savings?",
+          "answers": [
+            "He tells her that she won't ever have to spend it.",
+            "He asks her if he can borrow it for an investment.",
+            "He criticizes her for not trusting him sooner.",
+            "He decides that they should use it to open a store."
+          ],
+          "label": 0,
+          "p_label": 1
+        }
+      ],
+      "summary": [
+        [
+          "Janie leaves Eatonville and meets Tea Cake in Jacksonville,\nwhere they marry.",
+          "Still wary of being ripped off, Janie doesn’t\ntell Tea Cake about the two hundred dollars that she has pinned\ninside her shirt.",
+          "A week later, Tea Cake leaves early, saying that\nhe is just running to get fish for breakfast.",
+          "He doesn’t come back,\nand Janie discovers that her money is missing.",
+          "She spends the day\nthinking about Ms. Tyler, the widow in Eatonville who had been ripped\noff by a charming rascal named Who Flung.",
+          "But Tea Cake returns later\nthat night to a still-distraught Janie.",
+          "He explains that\na wave of excitement came over him when he saw the money; he spent\nit all on a big chicken and macaroni dinner for his fellow railroad\nworkers.",
+          "It turned into a raucous party, full of music and fighting.",
+          "Janie is insulted that Tea Cake didn’t invite her, but Tea Cake\nfurther explains that he was worried that Janie might think that\nhis crowd was too low class.",
+          "Janie says that from now on, she wants\nto enjoy everything that he does."
+        ],
+        [
+          "Tea Cake then promises to reimburse Janie.",
+          "He claims to\nbe a great gambler and goes off Saturday night to play dice and\ncards.",
+          "Again, he disappears for a while and Janie frets.",
+          "Around\ndaybreak he returns.",
+          "He got hurt the previous night, cut with a\nrazor by an angry loser, but he won three hundred and twenty-two\ndollars.",
+          "Janie, who now trusts Tea Cake, tells him about the twelve\nhundred dollars that she has in the bank.",
+          "Tea Cake announces that\nshe will never have to touch it, that he will provide for her, and\nthat they will leave for “the muck” (the Everglades), where he will\nget work."
+        ],
+        [
+          "Janie, completely in love with Tea Cake, is overwhelmed\nby the rich, fertile fields of the Everglades.",
+          "Tea Cake is familiar\nwith life in the muck and immediately gets them settled before the\nseason’s rush of migrant workers arrives.",
+          "He plans to pick beans\nduring the day and play guitar and roll dice at night.",
+          "As the season\nbegins, Tea Cake and Janie live a comfortable life.",
+          "They plant beans,\nTea Cake teaches Janie how to shoot a gun, and they go hunting together.",
+          "She eventually develops into a better shot than he."
+        ],
+        [
+          "The season soon gets underway.",
+          "Poor transients pour into\nthe muck in droves to farm the land; eventually, all the houses\nare taken and people camp out in the fields.",
+          "At night, the Everglades\nare filled with wild energy as the cheap bars pulse with music and\nrevelry.",
+          "Tea Cake’s house becomes a center of the community, a place\nwhere people hang out and listen to him play music.",
+          "At first, Janie\nstays at home and cooks glorious meals, but soon Tea Cake gets lonely\nand begins cutting work to see her.",
+          "Janie then decides to join him\nin the fields so that they can be together all day.",
+          "Working\nin her overalls and sitting on the cabin stoop with the migrant\nworkers, Janie laughs to herself about what the people in Eatonville\nwould say if they could see her.",
+          "She feels bad for the status-obsessed\ntownspeople who cannot appreciate the folksy pleasure of sitting\nand jawing on the porch."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What does the hotel barber mention that causes Aschenbach alarm?",
+          "answers": [
+            "A war",
+            "Tadzio’s beauty",
+            "A sickness",
+            "Decadence"
+          ],
+          "label": 2,
+          "p_label": 0
+        },
+        {
+          "question": "How does Aschenbach feel about the prospect of an epidemic in the city of Venice?",
+          "answers": [
+            "Saddened",
+            "Infuriated",
+            "Immensely scared",
+            "Elated"
+          ],
+          "label": 3,
+          "p_label": 0
+        },
+        {
+          "question": "As Aschenbach begins to follow Tadzio’s family, to what does he compare Venice?",
+          "answers": [
+            "Labyrinth",
+            "Cupid’s arrow",
+            "Alcohol",
+            "Dream"
+          ],
+          "label": 0,
+          "p_label": 1
+        },
+        {
+          "question": "What explanation do Venetians initially give Aschenbach regarding the disinfection of the city?",
+          "answers": [
+            "There is an epidemic",
+            "It is merely precautionary",
+            "They will all die otherwise",
+            "It is routine"
+          ],
+          "label": 1,
+          "p_label": 2
+        },
+        {
+          "question": "What happens after the guitarist at the hotel talks to Aschenbach?",
+          "answers": [
+            "The guitarist is interrogated",
+            "The guitarist is arrested",
+            "Aschenbach is interrogated",
+            "Aschenbach falls in love"
+          ],
+          "label": 0,
+          "p_label": 3
+        }
+      ],
+      "summary": [
+        [
+          "Aschenbach notices that even as the height of the season approaches, the number of guests at the hotel dwindles.",
+          "The hotel barber lets slip in conversation a remark about \"the sickness\" but, upon interrogation, tries to change the subject.",
+          "Aschenbach perceives in the air the \"sweetish medicinal\" smell of bactericide and sees what are clearly euphemistic notices posted warning residents not to eat shellfish or produce or use water from the canals.",
+          "The only printed information about possible epidemics is in the form of contradictory rumors in the German newspapers; consequently, all speakers of Aschenbach's mother tongue have left and he is surrounded by foreign languages.",
+          "While the thought of serious danger at first makes Aschenbach nervous, the feeling soon gives way to one of elation: Aschenbach realizes \"with a kind of horror\" that if Tadzio were to leave, Aschenbach would not be able to go on living, but an epidemic leading to a quarantine would guarantee that Tadzio and his family would have to stay on in Venice."
+        ],
+        [
+          "No longer content to leave sightings of the boy up to chance, Aschenbach begins to follow the Polish family in their daily itinerary.",
+          "He becomes fully obsessed.",
+          "The narrator tells us, \"His head and his heart were drunk, and his steps followed the dictates of that dark god whose pleasure it is to trample man's reason and dignity underfoot.\"",
+          "Venice is described as a labyrinth.",
+          "Aschenbach passes a beggar and a shady-looking antique salesman; the narrator asserts, \"This was Venice, the flattering and suspect beauty--this city, half fairy tale and half tourist trap, in whose insalubrious air the arts once rankly and voluptuously blossomed, where composers have been inspired to lulling tones of somniferous eroticism.\"",
+          "It is this atmosphere into which Aschenbach languidly slips."
+        ],
+        [
+          "At times, however, Aschenbach questions what is happening to him: with shame he compares his artist's life with that of his dignified, manly ancestors; yet he also tries to protect his dignity by convincing himself that art, too, is a manly battle, a defiant self-conquest--that the enslavement to passion that would normally be demeaning is, in fact, valorous for a person in love, as Aschenbach is.",
+          "Still he persists in researching the progress of the spreading disease.",
+          "When he asks various Venetians why the city is being disinfected, they answer that the measure is merely precautionary."
+        ],
+        [
+          "One evening, a group of street musicians gives a performance in the hotel's front garden.",
+          "Aschenbach sits on the terrace sipping pomegranate juice and soda water; he enjoys the squawky singing and clownish antics because, the narrator says, \"passion paralyzes discrimination.\"",
+          "Although he maintains a casual attitude, he is in a state of rapture: Tadzio leans elegantly against a stone parapet nearby.",
+          "With a sense of both triumph and terror Aschenbach feels Tadzio occasionally looking back at him, but having noticed that Tadzio is increasingly being called away by his governess when near him, Aschenbach is careful to keep a check on all signs of his feelings.",
+          "The guitarist has an air of impudent bravado and a shock of red hair; by his lewd movements and suggestive winks, he makes what is merely a foolish song strangely offensive.",
+          "As he marches around, Aschenbach notices that he stinks of bactericide; when he comes near, Aschenbach asks him in an undertone why Venice is being disinfected, but the performer insists that it is merely a preventive measure against the sirocco, which is known to be bad for the health, and moves off.",
+          "The man is immediately descended upon and interrogated by two hotel employees, but he assures them he has been discreet and is released."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "How does the “disintegration of the personality” process initially feel to Harry?",
+          "answers": [
+            "Liberating",
+            "Moderately pleasant",
+            "Moderately unpleasant",
+            "Very painful"
+          ],
+          "label": 3,
+          "p_label": 0
+        },
+        {
+          "question": "According to Pablo, what is music’s most important purpose?",
+          "answers": [
+            "Facilitating communication",
+            "Stimulating the intellect",
+            "Giving pleasure",
+            "Disintegrating personality"
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "What restores Harry’s commitment to hedonism when he is on the verge of cursing Hermine and killing himself?",
+          "answers": [
+            "Sleeping with Hermine",
+            "Sleeping with Maria",
+            "Hearing Pablo’s music",
+            "Hearing Mozart’s music"
+          ],
+          "label": 1,
+          "p_label": 2
+        },
+        {
+          "question": "What does Harry say to Hermine about the contentment that he feels with Maria?",
+          "answers": [
+            "It is liberating",
+            "It is stifling",
+            "It conceals underlying unhappiness",
+            "It leads nowhere"
+          ],
+          "label": 3,
+          "p_label": 5
+        },
+        {
+          "question": "Who does Harry suspect will claim him at the Fancy Dress Ball?",
+          "answers": [
+            "Hermine",
+            "Satan",
+            "Mozart",
+            "Pablo"
+          ],
+          "label": 0,
+          "p_label": 6
+        }
+      ],
+      "summary": [
+        [
+          "Harry’s immersion in the world of dancing, drink, nightclubs,\nand restaurants is accompanied by what he calls a “disintegration\nof the personality.”",
+          "In keeping with the principles set out in the\nTreatise, Harry starts to see himself as a composite of thousands\nof other souls.",
+          "This disintegration is very painful, especially\nwhen these selves jar and come into conflict, which makes Harry\nfeel that he is defiling everything he has held sacred in his life.",
+          "At the same time, though, Harry is able to see for the first time\nthe blind hypocrisy of his former life.",
+          "He has been in his own way\njust as pompous and one-sided as the portrait of Goethe he earlier\ncondemned."
+        ],
+        [
+          "Harry spends a considerable amount of time in the company\nof Pablo.",
+          "He tells Pablo about his musical theories, but the response\nhe receives is always a quiet, smiling indifference, which frustrates\nhim.",
+          "When Harry is particularly annoyed by one such exchange, Pablo offers\nhim a pinch from his gold snuffbox, and Harry sniffs a cocaine-laced\npowder.",
+          "One day, Harry finally manages to engage Pablo in a discussion,\nbut Pablo responds to all of Harry’s theoretical discourse by saying\nthat music has nothing to do with good taste, right, wrong, or education.",
+          "Instead, music is about creating as much, as well, and as intensely\nas possible.",
+          "Harry tries to defend higher, spiritual music, but\nhe cannot argue against Pablo’s firm belief that music is made first\nand foremost to give pleasure."
+        ],
+        [
+          "One night, Harry is feeling particularly upset about\nhis newfound hedonism.",
+          "He is practically on the verge of cursing\nHermine and going back to his original plan to commit suicide.",
+          "However, when\nhe enters his room he finds that the beautiful Maria is lying in his\nbed.",
+          "Maria has arrived at Hermine’s request, and Hermine wants Harry\nto make love to Maria.",
+          "That night, Harry sleeps with Maria."
+        ],
+        [
+          "Rather than feeling that Maria defiles his spirituality,\nHarry finds that she is its “worthy fulfillment.”",
+          "The next day,\nhe rents a room in a nearby neighborhood for their amorous meetings.",
+          "Even though Harry is not Maria’s only lover, he is drunk with the\nsensual delights she provides.",
+          "Being with her is the first time\nsince his downfall that he has been excited about his life.",
+          "Through\nthe feeling Maria kindles in him, and through all the sensual arts\nshe teaches him, Harry recalls all the romantic affairs of his life,\nas well as all the friendships.",
+          "He realizes that these experiences\nconstitute his life’s wealth."
+        ],
+        [
+          "Harry learns more about Maria and Hermine’s life of champagne,\ndrugs, and wealthy men.",
+          "He also learns about the accoutrements of\nlove affairs and about the small gifts that lovers give each other.",
+          "Like Hermine, Maria is infatuated with the young Pablo, who is apparently\nanother of her lovers.",
+          "In fact, at one point Pablo suggests that\nthe three of them have an ménage à trois, but Harry vigorously objects.",
+          "Another time, Pablo asks Harry for money, suggesting, to Harry’s\nhorror, that he take that night with Maria in exchange."
+        ],
+        [
+          "In the three weeks preceding the annual Fancy Dress Ball\norganized by the Society of Artists, Harry continues to feel connected\nto Hermine, who understands him well.",
+          "On the day before the ball,\nshe comes to his apartment, and they have a long, intense talk.",
+          "Harry explains that although he has been happy with Maria, he does\nnot feel right about the happiness because it does not lead anywhere\nand because he is not made for such contentment.",
+          "What Harry really wants\nis to suffer beautifully and long for death.",
+          "Hermine understands\nHarry and explains that for him, as for her, life has not asked the\ngreat sacrifices and achievements they are both prepared to make.",
+          "Instead it has offered a gaudy whirl of stupid, ephemeral tricks.",
+          "Hermine says that the two of them are among those who suffer because\nthey have a “dimension too many,” and she speaks of a kingdom of\n“eternity” that exists after death, a kingdom to which all of the\ngeniuses and saints and heroes of history belong."
+        ],
+        [
+          "Inspired by Hermine’s words, Harry writes a poem about\nthe perfect, unchanging “immortals.”",
+          "He is amazed that Hermine has managed\nto understand his deepest, half-conscious sentiments so well.",
+          "He\nfeels that she understands him almost too well.",
+          "Harry even begins\nto suspect that she has somehow drawn the feelings out of him.",
+          "He\nspends the night before the ball with Maria, who has a premonition\nthat this is the last time they will be together.",
+          "Harry suspects\nthat Hermine will claim him at the ball."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "Why is Gatsby nervous when he meets Nick outside his house?",
+          "answers": [
+            "He is eager for Nick to arrange a meeting with Daisy.",
+            "He is waiting for a “shipment.”",
+            "He is worried that he has offended Nick.",
+            "He has just killed someone."
+          ],
+          "label": 0,
+          "p_label": 0
+        },
+        {
+          "question": "What happens before Gatsby meets Daisy that makes him so anxious?",
+          "answers": [
+            "His mother arrives in town.",
+            "Daisy cancels their meeting.",
+            "It rains.",
+            "Nick catches the flu."
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "How does Nick feel about Gatsby’s offer to compensate him for his help by hiring him?",
+          "answers": [
+            "Nick is concerned that the work will be illegal.",
+            "Nick is offended that Gatsby is offering to pay him for his help.",
+            "Nick appreciates the offer, but regretfully declines.",
+            "Nick is overjoyed because he hates his current job."
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "What does Gatsby show Daisy that makes her cry?",
+          "answers": [
+            "His unsent letters to her from the war",
+            "A picture of his mother",
+            "His collection of nice shirts",
+            "A picture of his child"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "Why does Nick decide to leave Gatsby’s mansion?",
+          "answers": [
+            "He has a date with Jordan.",
+            "He feels Gatsby and Daisy have forgotten him anyway.",
+            "He doesn’t like the songs that Klipspringer is playing.",
+            "Gatsby makes a derogatory joke about Nick’s parents."
+          ],
+          "label": 1,
+          "p_label": 3
+        }
+      ],
+      "summary": [
+        [
+          "That night, Nick comes home from the city after a date\nwith Jordan.",
+          "He is surprised to see Gatsby’s mansion lit up brightly,\nbut it seems to be unoccupied, as the house is totally silent.",
+          "As\nNick walks home, Gatsby startles him by approaching him from across\nthe lawn.",
+          "Gatsby seems agitated and almost desperate to make Nick\nhappy—he invites him to Coney Island, then for a swim in his pool.",
+          "Nick realizes that Gatsby is nervous because he wants Nick to agree\nto his plan of inviting Daisy over for tea.",
+          "Nick tells Gatsby that\nhe will help him with the plan.",
+          "Overjoyed, Gatsby immediately offers\nto have someone cut Nick’s grass.",
+          "He also offers him the chance\nto make some money by joining him in some business he does on the\nside—business that does not involve Meyer Wolfshiem.",
+          "Nick is slightly offended\nthat Gatsby wants to pay him for arranging the meeting with Daisy\nand refuses Gatsby’s offers, but he still agrees to call Daisy and\ninvite her to his house."
+        ],
+        [
+          "It rains on the day of the meeting, and Gatsby becomes\nterribly nervous.",
+          "Despite the rain, Gatsby sends a gardener over\nto cut Nick’s grass and sends another man over with flowers.",
+          "Gatsby\nworries that even if Daisy accepts his advances, things between\nthem will not be the same as they were in Louisville.",
+          "Daisy arrives,\nbut when Nick brings her into the house, he finds that Gatsby has\nsuddenly disappeared.",
+          "There is a knock at the door.",
+          "Gatsby enters,\nhaving returned from a walk around the house in the rain."
+        ],
+        [
+          "At first, Gatsby’s reunion with Daisy is terribly awkward.",
+          "Gatsby knocks Nick’s clock over and tells Nick sorrowfully that\nthe meeting was a mistake.",
+          "After he leaves the two alone for half\nan hour, however, Nick returns to find them radiantly happy—Daisy\nshedding tears of joy and Gatsby glowing.",
+          "Outside, the rain has\nstopped, and Gatsby invites Nick and Daisy over to his house, where\nhe shows them his possessions.",
+          "Daisy is overwhelmed by his luxurious lifestyle,\nand when he shows her his extensive collection of English shirts,\nshe begins to cry.",
+          "Gatsby tells Daisy about his long nights spent\noutside, staring at the green light at the end of her dock, dreaming\nabout their future happiness."
+        ],
+        [
+          "Nick wonders whether Daisy can possibly live\nup to Gatsby’s vision of her.",
+          "Gatsby seems to have idealized Daisy\nin his mind to the extent that the real Daisy, charming as she is,\nwill almost certainly fail to live up to his expectations.",
+          "For the\nmoment, however, their romance seems fully rekindled.",
+          "Gatsby calls\nin Klipspringer, a strange character who seems to live at Gatsby’s\nmansion, and has him play the piano.",
+          "Klipspringer plays a popular\nsong called “Ain’t We Got Fun?”",
+          "Nick quickly realizes that Gatsby\nand Daisy have forgotten that he is there.",
+          "Quietly, Nick gets up\nand leaves Gatsby and Daisy alone together."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What does Mortenson discover when he returns to Korphe?",
+          "answers": [
+            "The bridge is almost finished.",
+            "Little work has been done.",
+            "More than half his supplies have been stolen or destroyed.",
+            "A flood washed out several village homes."
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "What happens when Mortenson enters the village mosque?",
+          "answers": [
+            "He receives many blessings on his marriage.",
+            "He helps Twaha perform a religious ceremony.",
+            "He realizes that he doesn't know the correct prayers.",
+            "He begins the conversion process."
+          ],
+          "label": 2,
+          "p_label": 0
+        },
+        {
+          "question": "What does Hoerni announce during his Thanksgiving dinner with Mortenson and Tara?",
+          "answers": [
+            "That he is sick with cancer",
+            "That he is bequeathing his fortune to the ASPCA",
+            "That he has funded several scholarships in the Seattle area",
+            "That he wants to start a foundation and have Mortenson run it"
+          ],
+          "label": 3,
+          "p_label": 1
+        },
+        {
+          "question": "According to Haji, what must Mortenson learn?",
+          "answers": [
+            "Patience is a virtue.",
+            "Building relationships is as important as building schools.",
+            "His demeanor is off-putting and offensive.",
+            "Korphe needs more than one school."
+          ],
+          "label": 1,
+          "p_label": 1
+        },
+        {
+          "question": "What happens when Mortenson visits Pakistan's Northwest Frontier?",
+          "answers": [
+            "He finds several suitable school sites.",
+            "He debates politics with Taliban leaders.",
+            "He bargains for new building supplies.",
+            "He gets kidnapped."
+          ],
+          "label": 3,
+          "p_label": 2
+        }
+      ],
+      "summary": [
+        [
+          "In Skardu, Mortenson cannot find Changazi or the building supplies that were\n                left in his keeping.",
+          "He receives help from Ghulam Parvi, an astute accountant\n                working for Changazi.",
+          "Parvi stands up to Changazi’s men and locates the supplies in\n                an abandoned hotel.",
+          "About a third of the materials are missing, but Mortenson has\n                enough to return to Korphe, where he expects preparations to be far along.",
+          "Little\n                has been done, however, and Mortenson is upset.",
+          "Haji explains that the villagers\n                decided to work on the stones themselves rather than hiring laborers who might\n                exploit Mortenson.",
+          "He puts the matter into perspective by saying that one more\n                winter will not matter after six hundred years without a school.",
+          "Mortenson tells\n                Twaha about his marriage and Twaha is delighted, although somewhat baffled by\n                Western marriage customs.",
+          "Sher Takhi, the religious leader of Korphe, gives special\n                prayers for the school-builders and Mortenson goes into the village mosque for the\n                first time.",
+          "He realizes nervously that he has been taught the Sunni form of prayer,\n                which is different from the Shiite form used by the villagers."
+        ],
+        [
+          "Mortenson returns to America and he and Tara have Thanksgiving dinner with\n                Jean Hoerni.",
+          "Hoerni announces that he wants to start a foundation, the Central Asia\n                Institute (CAI), and make Mortenson the director.",
+          "The goal will be to build a school\n                every year.",
+          "After learning that Tara is pregnant, the Mortensons move to Bozeman,\n                Montana, to be near Tara’s mother.",
+          "Back in Pakistan, Mortenson invites his former\n                guide, Mouzafer, to work for the CAI and also engages the accountant Parvi.",
+          "He\n                travels to Korphe to complete the school, but when he tries to oversee construction,\n                Haji tells him that his Western impatience is making everyone crazy.",
+          "Haji explains\n                that Mortenson must respect the ways of the Balti people if he expects to succeed.",
+          "He must understand that building relationships is as important as building schools.",
+          "As the chapter ends, Haji Mehdi, a corrupt leader who dominates the local people,\n                comes to Korphe and threatens Haji Ali.",
+          "Haji Mehdi says he will not allow Mortenson,\n                an “infidel,” to build a school and claims that girls should not be educated\n                according to the Koran.",
+          "He demands that Haji Ali give him twelve rams, half of the\n                village’s wealth.",
+          "Haji Ali agrees, and explains to Mortenson that this is not too\n                great a price to pay for the village children to have education."
+        ],
+        [
+          "Mortenson is intent on going into Waziristan, an untamed area of Pakistan’s\n                Northwest Frontier, to look for another school site.",
+          "The year is 1996, a time of\n                political upheaval, and Osama Bin Laden has recently arrived in Afghanistan.",
+          "In the\n                frontier town of Peshawar, Mortenson sees Taliban forces heading across the border\n                to Afghanistan, while refugees flee in the opposite direction.",
+          "Mortenson sets out\n                with a driver, but along the way he is kidnapped.",
+          "For eight days he is held in a\n                small room, although the reasons why are never made clear.",
+          "He tries to make friends\n                with his captors by asking for a Koran, and he passes the time reading an old copy\n                of Time Magazine and thinking about Tara.",
+          "An English-speaking Wazir\n                arrives, and Mortenson, who believes the man to be a Taliban commander, tells him\n                about the work he has been doing in Baltistan.",
+          "One night, Mortenson is blindfolded\n                and taken away in a pickup truck.",
+          "Mortenson fears he will be killed, but when Khan\n                removes the blindfold, Mortenson sees his captors holding a feast.",
+          "Without\n                explanation, they embrace Mortenson, give him money for the school project, and take\n                him back to Peshawar."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "How long was the experiment on spouses sharing the same bedroom carried out?",
+          "answers": [
+            "Ten months",
+            "Two years",
+            "Four years",
+            "Eight years"
+          ],
+          "label": 3,
+          "p_label": 0
+        },
+        {
+          "question": "At Walden Two, where are children raised?",
+          "answers": [
+            "Their parents’ home",
+            "A nursery",
+            "A randomly assigned home",
+            "A school outside the community"
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "What job do Rodge, Steve, and Burris sign up to do?",
+          "answers": [
+            "Plow a field",
+            "Clean fish",
+            "Build a barn",
+            "Move firewood"
+          ],
+          "label": 3,
+          "p_label": 2
+        },
+        {
+          "question": "What is Rodge’s reaction to Walden Two?",
+          "answers": [
+            "Bitter resentment",
+            "Curiosity",
+            "Extreme excitement",
+            "Indifference"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "Frazier observes that most other utopian communities ran on revelatory truth, and not ___ like Walden Two.",
+          "answers": [
+            "Constant experimentation",
+            "Charismatic leadership",
+            "Total consensus",
+            "Ethical treatment"
+          ],
+          "label": 0,
+          "p_label": 3
+        }
+      ],
+      "summary": [
+        [
+          "Frazier describes the way in which Walden Two has dealt with the family as a social unit.",
+          "At Walden Two, husbands and wives are encouraged to live in separate rooms.",
+          "The advantage of this arrangement over the traditional one was proven by doing an experiment: spouses were randomly assigned to room together or apart, and eight years later their satisfaction was measured.",
+          "Those who roomed separately were significantly happier than those who roomed together.",
+          "Similarly, children are raised in a nursery, not at home, which weakens their ties to their parents but strengthens their ties to the community as a whole.",
+          "It also allows them to be raised by experts in a controlled environment.",
+          "The burden of being a child's sole caretaker is removed from parents, and childless couples are given the opportunity to show affection to others' children."
+        ],
+        [
+          "As the parent-child connection continues to weaken, it will be possible for Walden Two to engage in genetic experimentation without interfering in the lives of the parents.",
+          "The children have a wide range of role models, both men and women, among their caretakers.",
+          "The communal raising of children is particularly advantageous for women because women's security, unlike in many societies in the outside world, is not tied to their ability to produce and raise a child."
+        ],
+        [
+          "After lunch, Rodge, Steve, and Burris sign up at the Work Desk to move a pile of firewood.",
+          "Mary, Barbara, and Castle sign up for lighter work.",
+          "During a moment of rest, Burris asks Rodge what he thinks of Walden Two.",
+          "Rodge is extremely excited about it, but he seems torn in two directions.",
+          "He tells Burris that Barbara is not at all fond of Walden Two.",
+          "He despairs of convincing her to stay; she is not willing to accept that, even if she finds a happy life in the outside world, it will be at someone else's expense."
+        ],
+        [
+          "After a couple hours working on the woodpile, Burris showers, changes, and takes a tour of the art on display on the walls of the main building's lounges and corridors.",
+          "He soon grows tired and nods off in one of the lounge chairs.",
+          "At seven o'clock he is woken up by a passing group of people and rushes to the dining room to meet the group.",
+          "During dinner, he asks Frazier what he thinks about the failure of similar communities in the past.",
+          "Frazier replies that history is no guide, we know almost nothing about the day-to-day working of such communities, and in any case, most or all previous communities ran on some sort of revelatory truth, not the constant experimentation that lies at the foundation of Walden Two."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "Who warns Tom that she can hate as passionately as she can love?",
+          "answers": [
+            "Mrs. Miller",
+            "Mrs. Waters",
+            "Lady Bellaston",
+            "Molly Seagrim"
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "Mrs. Miller asks Tom to leave her house, because she is worried about ___.",
+          "answers": [
+            "Stolen items",
+            "The safety of her guests",
+            "His enemies",
+            "The virtue of her daughters"
+          ],
+          "label": 3,
+          "p_label": 2
+        },
+        {
+          "question": "Who helped Mrs. Miller financially when her husband died?",
+          "answers": [
+            "Allworthy",
+            "Squire Western",
+            "Lord Fellamar",
+            "Lady Bellaston"
+          ],
+          "label": 0,
+          "p_label": 4
+        },
+        {
+          "question": "Who argues that a parent should have the prerogative to veto a marriage partner, but not to prescribe one?",
+          "answers": [
+            "Nancy’s sister",
+            "Nightingale’s father",
+            "Nancy’s aunt",
+            "Nightingale’s uncle"
+          ],
+          "label": 3,
+          "p_label": 7
+        },
+        {
+          "question": "When Tom returns to Mrs. Miller’s house after meeting with Nightingale’s family, what is everyone doing?",
+          "answers": [
+            "Sleeping",
+            "Rejoicing",
+            "Mourning",
+            "Arguing"
+          ],
+          "label": 1,
+          "p_label": 8
+        }
+      ],
+      "summary": [
+        [
+          "Since some gentlemen have recently made their literary mark without having any \nlearning, modern critics are now claiming that a writer does not require \nlearning.",
+          "However, the narrator believes that writing—like any \nart—requires knowledge and study.",
+          "A writer especially needs to have \nknowledge of their subject&mash;for instance, if one brought together \nHomer, Virgil, and \nAristotle, they would not write a very good book on the \nart of dance."
+        ],
+        [
+          "Jones receives two letters from Lady Bellaston.",
+          "The first asks him \nwhether he arranged to meet Sophia in the drawing room of her house.",
+          "She warns \nhim that she can hate as passionately as she can love.",
+          "The second urges him to \ncome and visit her at her house immediately.",
+          "As Jones is preparing to leave, \nLady Bellaston walks in with her dress in disarray.",
+          "She asks if Jones has \nbetrayed her, and he promises her on his knees that he has not.",
+          "Suddenly \nPartridge prances into the room announcing Mrs. Honour's arrival.",
+          "Tom hides \nLady Bellaston behind his bed before Honour enters.",
+          "Honour prattles on about how \nLady Bellaston meets men at a house where she pays the landlady's rent.",
+          "Then she \nhands Jones a letter from Sophia.",
+          "Once Honour leaves, Lady Bellaston emerges \nfrom behind the bed, enraged that she has been \"slighted for a Country Girl.\"",
+          "Lady Bellaston now realizes that Sophia will always occupy first place in \nJones's affections, but resigns herself to the second prize.",
+          "She and Jones \ndecide to camouflage the purpose of his visits by pretending that Tom has come \nto visit Sophia."
+        ],
+        [
+          "Jones receives a letter from Sophia saying that if he cares for her at all, he \nshould not visit her that day—she is worried that Lady Bellaston suspects \nsomething.",
+          "Jones pretends to be ill so as not to offend Lady Bellaston—he \nwrites an explanatory letter to her ladyship, as well as a letter to Sophia.",
+          "Lady Bellaston sends a note announcing that she will visit Jones at his room at \nnine that night.",
+          "Mrs. Miller asks Tom, very courteously, to leave her house, \nas she does not approve of him entertaining strange women in his room from ten \nat night to two in the morning.",
+          "She is worried about the virtue of her \ndaughters.",
+          "Jones, slightly annoyed, says that he will not defame her house, but \nhe needs to see whomever he pleases.",
+          "Tom learns from Mrs. Miller that Partridge \nhas told her about the highway robbery and of Tom's relation to Allworthy.",
+          "Tom \nis furious.",
+          "Partridge blames Mrs. Honour for disclosing these facts."
+        ],
+        [
+          "Nightingale tells Tom that he is also planning to leave Mrs. Miller's house, \nbut without saying farewell.",
+          "Tom insinuates that he knows this surreptitious \nmood has some relation to Nancy.",
+          "He accuses Nightingale of using too much \ngallantry in order to make Nancy fall in love with him.",
+          "Nightingale professes \nthat he likes Nancy more than any woman he has ever met, but that his father has \nprearranged a marriage for him with a woman he has never seen before.",
+          "He begs \nTom not to reveal his secret.",
+          "The narrator praises Nightingale's honorable \ncharacter—although this honor, he says, does not extend to affairs of \nlove."
+        ],
+        [
+          "Mrs. Miller invites Tom to tea—she does not wish to part on bad terms with \nhim.",
+          "She tells him her story, saying that, without Allworthy's assistance, \nher family could not have survived.",
+          "Mrs. Miller's father left his three \ndaughters poverty-stricken, and Mrs. Miller was the only daughter to survive.",
+          "She married a clergyman, who died five years after their wedding.",
+          "Mrs. Miller \nreads Tom the generous letter that Allworthy wrote to her at this time.",
+          "He sent \nher an initial twenty guineas, then bought her a furnished house, and bestowed a \nfifty-pound annuity on her.",
+          "Tom relates his history to Mrs. Miller—without \nmentioning Sophia.",
+          "That night Jones waits in his room from nine until midnight, \nbut Lady Bellaston makes no appearance."
+        ],
+        [
+          "Jones is woken by an uproar.",
+          "He summons Partridge, who relates that Nancy, \nMrs. Miller, and Betty are crying in the kitchen.",
+          "He jokes that there is a \nnew delivery for the \"Foundling-Hospital.\"",
+          "Mrs. Miller tells Jones that \nNightingale—\"that barbarous Villain\"—has deflowered her daughter, \nwho is pregnant with his child.",
+          "She shows Tom the letter Nightingale left for \nNancy, in which he promises to provide for her and the child.",
+          "Nancy's reputation \nmight have been preserved if she had not fainted in public after receiving the \nletter.",
+          "Nancy has twice attempted suicide, says Mrs. Miller.",
+          "She admits that she \nnoticed Nightingale's attentions to Nancy, but sincerely thought that he would \nmarry her daughter.",
+          "Tom resolves to find Nightingale."
+        ],
+        [
+          "Jones finds Nightingale sitting despondently beside the fireplace in his new \ndwelling—he is worrying about Nancy.",
+          "He says that he is upset she showed \nthe letter to others—if she had not, her reputation would still be intact \nand he would not have to worry.",
+          "Tom tells Nightingale that he should marry her, \nand Nightingale now admits that he had given Nancy a promise of marriage.",
+          "He \nworries, however, about what people will think of him for marrying a \"whore.\"",
+          "Tom argues that Nightingale's \"Honour\" will not be reinstated by his rejection \nof a woman whom he corrupted.",
+          "Nightingale now argues that he is obliged to \nuphold his duty to his father.",
+          "He is to meet the woman his father has arranged \nfor him to marry the following day.",
+          "Jones insists on meeting with Nightingale's \nfather, and orders Nightingale to visit Nancy.",
+          "Nightingale suggests that it will \nbe easier for Jones if he tells his father that he is already married."
+        ],
+        [
+          "When Jones arrives at the house of Nightingale's father, the latter is meeting \nwith the father of Nightingale's prospective wife.",
+          "He thinks that Tom has come \nto claim a debt from his son.",
+          "Jones begins by praising Nancy, but without \nmentioning her name.",
+          "Nightingale's father, believing Tom to be talking about the \nlady he wishes his son to marry, is pleasantly surprised by the new attractions \nof this lady—her beauty, her education, her sweet temper.",
+          "Tom slowly \nsuggests that it would be silly for Nightingale's father to reject the woman \nsimply because she has no fortune.",
+          "At this point Nightingale's father asks \nwhether Tom is speaking about Miss Harris.",
+          "Tom replies that he is speaking of \nMiss Nancy Miller.",
+          "Nightingale's uncle enters the room and argues that a parent \nshould have the prerogative to veto a marriage partner, but not to prescribe \none.",
+          "Nightingale was raised more by this uncle than by his father."
+        ],
+        [
+          "Jones returns to Mrs. Miller's house to find everyone rejoicing.",
+          "Nightingale and \nNancy are to be married the next day.",
+          "Mrs. Miller calls Tom her good Angel.",
+          "Nightingale's uncle arrives and, in private, congratulates his nephew on his \nrecent marriage.",
+          "Nightingale admits that he is not actually yet married, and his \nuncle rejoices at this news.",
+          "He advises Nightingale to leave Nancy, since he \ndoes not have any formal obligations to her until the matrimony.",
+          "Nightingale \ntells his uncle that honor demands that one carry through one's promises as well \nas one's actions.",
+          "Moreover, he loves Nancy.",
+          "He reminds his uncle that he always \npromised to let his daughter, Harriet, choose her own marriage partner.",
+          "Nightingale's uncle tells Nightingale to accompany him to his lodging so that \nthey can debate the matter more."
+        ],
+        [
+          "Downstairs, Nancy, Mrs. Miller, and Tom are wondering why Nightingale and his \nuncle have taken so much time for their conference.",
+          "When the two men emerge, \neveryone feigns that nothing is amiss.",
+          "Mrs. Honour arrives with awful news about \nSophia.",
+          "Tom can think of nothing but his \"unfortunate Angel.\""
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What does Elizabeth daydream about during her tour of Darcy’s estate with the Gardiners?",
+          "answers": [
+            "Reading in the library",
+            "Coming back with Jane",
+            "Confronting Wickham",
+            "Being the house’s mistress"
+          ],
+          "label": 3,
+          "p_label": 2
+        },
+        {
+          "question": "During her tour of Darcy’s home, Elizabeth is interested to hear the housekeeper describe Darcy as ___?",
+          "answers": [
+            "Kind",
+            "Arrogant",
+            "Melancholy",
+            "A picky eater"
+          ],
+          "label": 0,
+          "p_label": 2
+        },
+        {
+          "question": "Where does Elizabeth first meet Georgiana?",
+          "answers": [
+            "At Pemberly",
+            "At Rosings",
+            "At an inn",
+            "On the road"
+          ],
+          "label": 2,
+          "p_label": 4
+        },
+        {
+          "question": "Miss Bingley makes a spiteful remark to Elizabeth about “a great loss to your family.” What is she referring to?",
+          "answers": [
+            "Jane and Bingley’s breakup",
+            "The militia leaving Meryton",
+            "Charlotte’s marriage",
+            "Mr. Bennet’s death"
+          ],
+          "label": 1,
+          "p_label": 4
+        },
+        {
+          "question": "Why does Elizabeth avoid discussing Wickham with Miss Bingley?",
+          "answers": [
+            "It’s boring",
+            "She’s embarrassed",
+            "To protect Georgiana’s feelings",
+            "She still loves Wickham"
+          ],
+          "label": 2,
+          "p_label": 4
+        }
+      ],
+      "summary": [
+        [
+          ". . .",
+          "and at that moment she felt that\nto be mistress of Pemberley might be something!",
+          ""
+        ],
+        [
+          "(See Important Quotations Explained)"
+        ],
+        [
+          "As Elizabeth tours the beautiful estate of Pemberley with\nthe Gardiners, she imagines what it would be like to be mistress\nthere, as Darcy’s wife.",
+          "The housekeeper, Mrs. Reynolds, shows them\nportraits of Darcy and Wickham and relates that Darcy, in his youth, was\n“the sweetest, most generous-hearted boy in the world.”",
+          "She adds\nthat he is the kindest of masters: “I have never had a cross word from\nhim in my life.”",
+          "Elizabeth is surprised to hear such an agreeable\ndescription of a man she considers unbearably arrogant."
+        ],
+        [
+          "While Elizabeth and the Gardiners continue to explore\nthe grounds, Darcy himself suddenly appears.",
+          "He joins them in their walk,\nproving remarkably polite.",
+          "Elizabeth is immediately embarrassed\nat having come to Pemberley after the events of recent months, and\nshe assures Darcy that she came only because she thought that he\nwas away.",
+          "Darcy tells her that he has just arrived to prepare his\nhome for a group of guests that includes the Bingleys and his own\nsister, Georgiana.",
+          "He asks Elizabeth if she would like to meet Georgiana,\nand Elizabeth replies that she would.",
+          "After Darcy leaves them, the\nGardiners comment on his good looks and good manners, so strikingly\ndivergent from the account of Darcy’s character that Elizabeth has\ngiven them."
+        ],
+        [
+          "The next day, Darcy and Georgiana, who is pretty but very\nshy, visit Elizabeth at her inn.",
+          "Bingley joins them, and after a\nbrief visit, they invite Elizabeth and the Gardiners, who perceive\nthat Darcy is in love with their niece, to dine at Pemberley.",
+          "The\nfollowing morning, Elizabeth and Mrs. Gardiner visit Pemberley to\ncall on Miss Darcy.",
+          "Bingley’s sisters are both present; when Darcy\nenters the room, Miss Bingley makes a spiteful comment to Elizabeth,\nnoting that the departure of the militia from Meryton “must be a\ngreat loss to your family.”",
+          "Elizabeth dodges the subject of Wickham.",
+          "This deflection proves fortunate given the presence of Georgiana,\nas references to the man with whom she almost eloped would embarrass\nher."
+        ],
+        [
+          "After the guests depart, Miss Bingley attempts to criticize\nElizabeth to Darcy, and makes a light remark about how he once thought Elizabeth\n“rather pretty.”",
+          "Darcy replies that he now considers Elizabeth “one\nof the handsomest women of my acquaintance.”"
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What does Dinah feel after readjusting to her family’s life?",
+          "answers": [
+            "An emptiness",
+            "Numbness",
+            "A sense of longing",
+            "Resentment"
+          ],
+          "label": 2,
+          "p_label": 0
+        },
+        {
+          "question": "Why do Jacob and his sons want to move again?",
+          "answers": [
+            "To escape Eseau",
+            "To find more land",
+            "To find more wives",
+            "To fulfill their destiny"
+          ],
+          "label": 1,
+          "p_label": 0
+        },
+        {
+          "question": "What do the women do to Dinah in the field?",
+          "answers": [
+            "Give her romantic advice",
+            "Pray over her",
+            "Open her womb",
+            "Counsel her on womanhood"
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "Why do Simon and Levi’s wives report the ceremony to their husbands?",
+          "answers": [
+            "They want to create conflict",
+            "They are shocked by it",
+            "They are meddlesome",
+            "They hate Dinah"
+          ],
+          "label": 1,
+          "p_label": 2
+        },
+        {
+          "question": "What does Dinah’s ritual symbolize?",
+          "answers": [
+            "Her foray into midwifery",
+            "Her chance to mature",
+            "Experience with personal pain",
+            "Becoming more intellectual"
+          ],
+          "label": 2,
+          "p_label": 2
+        }
+      ],
+      "summary": [
+        [
+          "When Dinah returns home to her family’s camp, she has\nreached the peak of her adolescence.",
+          "After living among mainly women\nfor three months, she is shocked by the crudeness of her father\nand brothers when she returns to her camp.",
+          "The noise and stench\nof the camp overwhelm her.",
+          "Even her mother Leah has changed, acting\nbossy and demanding, so Dinah begins sleeping in Rachel’s tent.",
+          "Slowly, she grows accustomed to her family’s way of life again,\nthough she starts to feel a longing within her that she cannot name.",
+          "She takes great interest in the mating dogs and listens to her brother\nJudah and his wife Shua as they make love at night.",
+          "Jacob and his\nsons begin to talk of moving elsewhere in order to find more land.",
+          "Simon and Levi go to Shechem to speak with its king, Hamor, who\noffers them a large piece of land.",
+          "Jacob’s family dismantles the\ncamp, and they move again to a valley with a large mountain alongside\nit.",
+          "Here, three more of the brothers take wives and the herds multiply."
+        ],
+        [
+          "Soon after they reach their new home, Dinah reaches womanhood.",
+          "She is surprised and for a moment considers keeping it to herself\nand remaining a girl in the eyes of her family.",
+          "After a moment of reticence,\nshe tells her mothers, and they smother her with hugs and kisses.",
+          "Her ceremony begins that night at dusk.",
+          "Dinah drinks sweet wine\nand is painted with henna on her feet and palms.",
+          "Her mothers dress\nher in a rough homespun gown, feed her sweets, and massage her neck\nand back while offering her more and more wine.",
+          "Rachel brings out\nthe teraphim, and all fall silent.",
+          "Dinah chooses the special frog\ngoddess, and they take her outside to lie in a wheat patch in the garden.",
+          "She lies naked facedown in the soil.",
+          "Her mothers oil the teraphim\nand insert it into Dinah to “open her womb” by breaking her hymen\nso that her blood returns to the earth and to the goddess Innana.",
+          "Though she cries out, the procedure does not really hurt.",
+          "The wine\ncauses Dinah to fall into a sleep, in which she dreams of Taweret,\nan Egyptian goddess who lives in the river."
+        ],
+        [
+          "Simon and Levi’s wives, who are Canaanite, witness the\nprivate ritual.",
+          "As it is not their custom, they are shocked by the\nfamily’s ritual of womanhood and run to tell their husbands, who\nhave remained ignorant of these rituals.",
+          "The men are disgusted,\nand Jacob orders the women to return the teraphim to him.",
+          "He shatters and\nburies most of the teraphim.",
+          "Jacob now frowns upon the red tent\nand the practices that occur within it, since he does not understand\nthe women’s rituals, but he allows them to continue.",
+          "With every\nnew moon, Dinah now joins her mothers and the other women in the\ntent as a mature woman.",
+          "Leah is pleased to have her daughter sit\nbeside her in the straw.",
+          "Inna and Rachel keep busy delivering babies\nto women in the vicinity of the camp.",
+          "Dinah begins to attend the\nbirths occasionally and begins to see midwifery as her calling,\nso she becomes Rachel’s apprentice."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "In “The Purloined Letter,” who is the prefect of the Paris police?",
+          "answers": [
+            "Monsieur G—",
+            "Monsieur F—",
+            "Monsier D—",
+            "Monsieur H—"
+          ],
+          "label": 0,
+          "p_label": 0
+        },
+        {
+          "question": "Dupin tells the police that the Minister must be keeping the letter ___.",
+          "answers": [
+            "In a bank box",
+            "In an unmarked grave",
+            "In his apartment",
+            "In his pants"
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "According to Dupin, the most difficult things to find are hidden ___.",
+          "answers": [
+            "In plain sight",
+            "Underground",
+            "Under water",
+            "In a puzzle box"
+          ],
+          "label": 0,
+          "p_label": 4
+        },
+        {
+          "question": "What does Dupin intentionally leave at the Minister’s apartment so that he’ll have reason to return?",
+          "answers": [
+            "His hat",
+            "His cane",
+            "His snuffbox",
+            "His wallet"
+          ],
+          "label": 2,
+          "p_label": 5
+        },
+        {
+          "question": "Why does Dupin leave a fake letter behind in place of the real one?",
+          "answers": [
+            "To impress the girl",
+            "To embarrass the minister",
+            "To get the reward",
+            "To show off"
+          ],
+          "label": 1,
+          "p_label": 5
+        }
+      ],
+      "summary": [
+        [
+          "In a small room in Paris, an unnamed narrator, who also\nnarrates “The Murders in the Rue Morgue,” sits quietly with his\nfriend, C. Auguste Dupin.",
+          "He ponders the murders in the Rue Morgue, which\nDupin solved in that story.",
+          "Monsieur G——, the prefect of the Paris\npolice, arrives, having decided to consult Dupin again.",
+          "The prefect\npresents a case that is almost too simple: a letter has been taken\nfrom the royal apartments.",
+          "The police know who has taken it: the\nMinister D——, an important government official.",
+          "According to the\nprefect, a young lady possessed the letter, which contains information\nthat could harm a powerful individual.",
+          "When the young lady was first\nreading the letter, the man whom it concerned came into the royal\napartments.",
+          "Not wanting to arouse his suspicion, she put it down\non a table next to her.",
+          "The sinister Minister D—— then walked in\nand noted the letter’s contents.",
+          "Quickly grasping the seriousness\nof the situation, he produced a letter of his own that resembled\nthe important letter.",
+          "He left his own letter next to the original one\nas he began to talk of Parisian affairs.",
+          "Finally, as he prepared\nto leave the apartment, he purposely retrieved the lady’s letter\nin place of his own.",
+          "Now, the prefect explains, the Minister D——\npossesses a great deal of power over the lady."
+        ],
+        [
+          "Dupin asks whether the police have searched the Minister’s\nresidence, arguing that since the power of the letter derives from\nits being readily available, it must be in his apartment.",
+          "The prefect responds\nthat they have searched the Minister’s residence but have not located\nthe letter.",
+          "He recounts the search procedure, during which the police\nsystematically searched every inch of the hotel.",
+          "In addition, the\nletter could not be hidden on the Minister’s body because the police\nhave searched him as well.",
+          "The prefect mentions that he is willing\nto search long and hard because the reward offered in the case is\nso generous.",
+          "Upon Dupin’s request, the prefect reads him a physical\ndescription of the letter.",
+          "Dupin suggests that the police search\nagain."
+        ],
+        [
+          "One month later, Dupin and the narrator are again sitting together\nwhen the prefect visits.",
+          "The prefect admits that he cannot find\nthe letter, even though the reward has increased.",
+          "The prefect says\nthat he will pay 50,000 francs to anyone\nwho obtains the letter for him.",
+          "Dupin tells him to write a check\nfor that amount on the spot.",
+          "Upon receipt of the check, Dupin hands\nover the letter.",
+          "The prefect rushes off to return it to its rightful\nowner, and Dupin explains how he obtained the letter."
+        ],
+        [
+          "Dupin admits that the police are skilled investigators\naccording to their own principles.",
+          "He explains this remark by describing\na young boy playing “even and odd.”",
+          "In this game, each player must guess\nwhether the number of things (usually toys) held by another player\nis even or odd.",
+          "If the guesser is right, he gets one of the toys.",
+          "If\nhe is wrong, he loses a toy of his own.",
+          "The boy whom Dupin describes\nplays the game well because he bases his guesses on the knowledge\nof his opponent.",
+          "When he faces difficulty, he imitates the facial\nexpression of his opponent, as though to understand what he thinks\nand feels.",
+          "With this knowledge, he often guesses correctly.",
+          "Dupin\nargues that the Paris police do not use this strategy and therefore\ncould not find the letter: the police think only to look for a letter in\nplaces where they themselves might hide it."
+        ],
+        [
+          "Dupin argues that the Minister D—— is intelligent enough\nnot to hide the letter in the nooks and crannies of his apartment—exactly where\nthe police first investigate.",
+          "He describes to the narrator a game\nof puzzles in which one player finds a name on a map and tells the\nother player to find it as well.",
+          "Amateurs, says Dupin, pick the names\nwith the smallest letters.",
+          "According to Dupin’s logic, the hardest\nnames to find are actually those that stretch broadly across the\nmap because they are so obvious."
+        ],
+        [
+          "With this game in mind, Dupin recounts the visit he made\nto the Minister’s apartment.",
+          "After surveying the Minister’s residence, Dupin\nnotices a group of visiting cards hanging from the mantelpiece.",
+          "A letter accompanies them.",
+          "It has a different exterior than that\npreviously described by the prefect, but Dupin also observes that\nthe letter appears to have been folded back on itself.",
+          "He becomes\nsure that it is the stolen document.",
+          "In order to create a reason\nfor returning to the apartment, he purposely leaves behind his snuffbox.",
+          "When he goes back the next morning to retrieve it, he also arranges\nfor someone to make a commotion outside the window while he is in\nthe apartment.",
+          "When the Minister rushes to the window to investigate\nthe noise, Dupin replaces the stolen letter with a fake.",
+          "He justifies\nhis decision to leave behind another letter by predicting that the\nMinister will embarrass himself when he acts in reliance upon the\nletter he falsely believes he still possesses.",
+          "Dupin remarks that\nthe Minister once wronged him in Vienna and that he has pledged\nnot to forget the insult.",
+          "Inside the fake letter, then, Dupin inscribes,\na French poem that translates into English, “So baneful a scheme,\nif not worthy of Atreus, is worthy of Thyestes.”"
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "Who does Matthew turn to for help buying Anne a fashionable new dress?",
+          "answers": [
+            "Miss Harris",
+            "Marilla",
+            "Mrs. Rachel",
+            "Samuel Lawson"
+          ],
+          "label": 2,
+          "p_label": 1
+        },
+        {
+          "question": "What does Anne propose to help cultivate Diana’s imagination?",
+          "answers": [
+            "A choir",
+            "An amateur theater company",
+            "A reading club",
+            "A story club"
+          ],
+          "label": 3,
+          "p_label": 4
+        },
+        {
+          "question": "When Anne accidentally dyes her hair green, how does Marilla solve the problem?",
+          "answers": [
+            "She crops it short",
+            "She dies it blonde",
+            "Anne gets a wig",
+            "Anne wears a bonnet"
+          ],
+          "label": 0,
+          "p_label": 5
+        },
+        {
+          "question": "What kind of vehicle does Anne steer as part of her reenactment of a Tennyson poem?",
+          "answers": [
+            "A tractor",
+            "A small boat",
+            "A wheelbarrow",
+            "A horse"
+          ],
+          "label": 1,
+          "p_label": 6
+        },
+        {
+          "question": "Who saves Anne when her boat sinks and she is left clinging to a bridge pile?",
+          "answers": [
+            "Gilbert Blythe",
+            "Matthew",
+            "Diana",
+            "Marilla"
+          ],
+          "label": 0,
+          "p_label": 7
+        }
+      ],
+      "summary": [
+        [
+          "On a cold December evening, Matthew enters the kitchen\nand realizes too late that Anne and her friends are already there\nconducting a rehearsal of “The Fairy Queen” in preparation for the\nChristmas concert.",
+          "Shy of all the little girls, he stays silently\nin the corner until they leave.",
+          "While observing the group, Matthew\nnotices that Anne is dressed differently from her friends.",
+          "He becomes\nconvinced that she needs more fashionable clothing and goes into\nthe town of Carmody to find a bright dress with puffed sleeves.",
+          "Shopping is not an easy task for such a shy man, but Matthew summons\nhis courage and goes to Samuel Lawson’s store, which he thinks will\nnot have a female clerk at the desk.",
+          "Much to Matthew’s dismay, he\nfinds that Samuel Lawson has hired a female clerk, Miss Lucilla\nHarris."
+        ],
+        [
+          "Matthew is too scared to ask Miss Harris for fashion\nadvice, and asks for twenty pounds of brown sugar and a garden rake\nbefore making his escape.",
+          "Matthew eventually asks Mrs. Rachel for\nhelp, and she picks out a rich brown fabric and uses a fashionable\npattern to make Anne’s dress.",
+          "Mrs. Rachel has often wondered why\nMarilla dresses Anne so plainly and is happy to have a part in updating Anne’s\nwardrobe.",
+          "On Christmas Day, Matthew unveils the dress, complete\nwith puffed sleeves.",
+          "Diana comes over with a present from Aunt Josephine\nfor Anne: delicate slippers.",
+          "Anne is delighted by her beautiful\nnew garments."
+        ],
+        [
+          "Anne’s Christmas concert is the first one Matthew and\nMarilla have been to in twenty years.",
+          "Anne, wearing her new dress\nand shoes, is the star of the show.",
+          "Both Cuthberts are swollen with\npride.",
+          "Matthew immediately tells Anne how proud he is of her, but\nMarilla decides not to compliment Anne."
+        ],
+        [
+          "After the excitement of the Christmas concert, the Avonlea\nstudents return to their normal, humdrum patterns.",
+          "Anne, now almost\nthirteen, vows to improve herself by imitating Mrs. Allan, refraining from\nsaying uncharitable things and trying to do good."
+        ],
+        [
+          "For school, the students are assigned to write a piece\nof fiction and a composition about a walk in the winter.",
+          "These assignments displease\nMarilla because they rely on imagination rather than memorization.",
+          "They elate Anne, however, and she completes her original story early.",
+          "Diana moans that she does not have enough imagination to do the\nassignment.",
+          "To help Diana cultivate her imagination and to practice\nher own writing, Anne proposes that the two girls start a story\nclub.",
+          "Two of their friends, Jane Andrews and Ruby Gillis, eventually\njoin, and the girls spend their time inventing romantic, melodramatic\nstorylines."
+        ],
+        [
+          "One evening in late April, Marilla walks home feeling\nuplifted and lighthearted, though she does not realize that the\nsights of spring are the cause of her joy.",
+          "She happily anticipates\nthe warm fire and tea that Anne should have prepared for her at\nhome.",
+          "When she reaches Green Gables, Marilla finds the table bare\nand Anne nowhere to be found.",
+          "She complains to Matthew that Anne\nhas disobeyed her order to stay at home and prepare the meal.",
+          "Her\nanger turns to concern when suppertime comes and there is still\nno sign of Anne.",
+          "Marilla goes upstairs to get a candle from Anne’s\nroom and finds her lying facedown on her bed, moaning that she is\ntoo ugly to be seen.",
+          "It turns out that Anne has dyed her hair with\ndisastrous results.",
+          "She bought hair dye from a traveling peddler\nwho claimed the dye would turn her hair raven black.",
+          "The dye turned\nher hair green, and the only solution is for Marilla to crop it\nto an unfashionably short length.",
+          "At first Anne weeps at the sight\nof herself in the mirror, but she then decides to look at her unattractive\nreflection to remind herself of the folly of vanity."
+        ],
+        [
+          "Anne, Diana, Ruby, and Jane enact a scene from a poem\nby Alfred Lord Tennyson in which the corpse of a character named\nElaine is sent down a river in a barge.",
+          "Though Anne does not look\nlike Elaine, who has golden hair, she gets the part because none\nof the other girls want to drift down the pond alone in Mr. Barry’s\nlittle boat.",
+          "The girls recite romantic farewells and send Anne’s\nunmoving body down the pond.",
+          "For a few minutes, Anne revels in the\nromance of the situation, but she then feels water at her back.",
+          "The boat has a leak, but Anne remains calm and prays for God to\nbring the boat close to one of the bridge piles (poles running vertically\nfrom the bridge to the bottom of the river) so she can grab on and\nwait for help.",
+          "The girls see the boat sink, and, thinking that Anne\nhas sunk with it, they run screaming for help.",
+          "Anne is able to get\nto a bridge pile, however, where she hangs on and waits uncomfortably\nfor help."
+        ],
+        [
+          "Just when Anne begins to think she cannot hold on any\nlonger, Gilbert Blythe rows up and rescues her.",
+          "After depositing\nher safely on the bank, he makes a friendly overture, apologizing\nagain for calling her “Carrots” when they first met and complimenting\nthe auburn color her hair has become.",
+          "For a moment, Anne hesitates and\nconsiders befriending her sworn enemy.",
+          "But she then recalls her humiliation\nduring the “Carrots” incident and declares she will never become\nfriends with him.",
+          "Gilbert storms off.",
+          "Meanwhile, Diana and Jane\ncannot find any adults to help and have become frantic.",
+          "Ruby, always\ninclined toward hysteria, grieves at the Barry house.",
+          "When Diana\nand Jane return to the pond, they are relieved that Anne is safe\nand thrilled by the romance of her rescue by Gilbert.",
+          "Anne, however,\norders Jane never to say the word “romantic” again."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What product is Sir La Cote Male Taile an ambassador for?",
+          "answers": [
+            "Soap",
+            "Matches",
+            "Glass",
+            "Guns"
+          ],
+          "label": 0,
+          "p_label": 0
+        },
+        {
+          "question": "What does Morgan Le Fay do to the page that accidentally bumps into her?",
+          "answers": [
+            "Fires him",
+            "Shakes him",
+            "Berates him",
+            "Kills him"
+          ],
+          "label": 3,
+          "p_label": 1
+        },
+        {
+          "question": "What has the prisoner on the rack been accused of killing?",
+          "answers": [
+            "A dog",
+            "A man",
+            "A stag",
+            "A falcon"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "What color had one man said the queen’s hair was that landed him in prison?",
+          "answers": [
+            "Red",
+            "Auburn",
+            "Blonde",
+            "Grey"
+          ],
+          "label": 0,
+          "p_label": 5
+        },
+        {
+          "question": "How many funerals has the prisoner witnessed from his cell?",
+          "answers": [
+            "3",
+            "5",
+            "10",
+            "9"
+          ],
+          "label": 1,
+          "p_label": 5
+        }
+      ],
+      "summary": [
+        [
+          "The Yankee asks which knights were captured, and Sandy launches into a story about Sir Gawaine and Sir Uwaine meeting Sir Marhaus, a misogynistic knight.",
+          "The Yankee finds Sandy's storytelling style rather vague and monotonous, and he criticizes elements of the style and lets his mind wander.",
+          "They arrive at a large castle.",
+          "They meet a knight named Sir La Cote Male Taile riding away from the castle; he is one of the Yankee's soap missionaries, traveling around disseminating soap in a complicated first step of the Yankee's plan to undermine the power of the Church.",
+          "He is depressed because he failed to convince the inhabitants of the castle to take any soap, as the hermit he was washing in his demonstration died and will now be considered a martyr.",
+          "The Yankee comforts him by suggesting a new advertising slogan, \"Patronized by the Elect.\""
+        ],
+        [
+          "They go on up to the castle, which belongs to Morgan Le Fay with her husband, King Uriens, and his son Sir Uwaine.",
+          "Le Fay is beautiful and speaks sweetly, but she is also violent and quick-tempered.",
+          "She kills a page who accidentally bumps against her.",
+          "She orders the Yankee thrown in the dungeon when he makes a complimentary remark about King Arthur, her brother, whom she hates, but Sandy saves him by reminding everyone that he is \"The Boss.\"",
+          "Le Fay quickly plays off her order as a joke, saying she just wanted to see the Yankee strike down her guards in a display of his superior power.",
+          "Le Fay nags the Yankee to give an exhibition of his powers but is interrupted by the call to prayer.",
+          "Afterward, they have dinner in a great hall with the full court assembled, and the party dissolves into raucous laughter and carousing."
+        ],
+        [
+          "An old woman enters the hall and curses Le Fay for killing her grandson.",
+          "The queen orders the woman burned at the stake, but Sandy rises and says the Yankee will destroy the castle if she does not recall her command.",
+          "She complies, and everyone rushes out of the hall madly, in case the Yankee should decide to destroy the castle anyway.",
+          "Afterward, Le Fay is cowed and even seeks the Yankee's approval before having the court composer hanged (he tells her, very diplomatically, to go ahead and hang the whole band).",
+          "She keeps him up that night talking and takes him down to the dungeon to show him a prisoner on the rack.",
+          "He has been accused by an unknown masked man of killing a stag on the royal preserves, and she says she is torturing him so that he will confess his sin and not die unabsolved."
+        ],
+        [
+          "The Yankee says he would speak with the prisoner, as Arthur's representative, and Le Fay reluctantly tells her followers to obey him completely.",
+          "He has the prisoner released and sends everyone else away but his wife and child.",
+          "He asks the prisoner (whose name is Hugo) what actually happened, but he refuses to speak until the Yankee has promised him freedom.",
+          "The prisoner reveals that he actually did kill the deer, but he refused the comfort of a swift death so his widow and orphan would not have their property confiscated when he confessed.",
+          "The Yankee promises to send them to his colony for training."
+        ],
+        [
+          "The Yankee arranges to fulfill his promise to the prisoner and his family and punishes the executioner for dealing roughly with the woman by making him the leader of the new band.",
+          "Le Fay is outraged and does not understand the concept of extenuating circumstances, but she must submit to the Yankee's decree.",
+          "She says she plans to pay for the page she killed, and the Yankee is obliged to compliment her for this, as she is not legally bound to make any recompense for killing a subject.",
+          "Still, he determines secretly to hang her for her act someday if he ever has the opportunity.",
+          "He asks to tour her dungeon, and she consents.",
+          "He finds a husband and wife in separate cells who were sent there by Le Fay's neighbor, Sir Breuse Sance Pite, for refusing to submit to his lordly right to sleep with the bride on her wedding night."
+        ],
+        [
+          "He reunites the couple, but they have been imprisoned in darkness for too long to take any notice.",
+          "He frees them and 45 other prisoners and leaves only one imprisoned, a malicious nobleman.",
+          "He sends one man who was imprisoned for remarking that all men are alike without their clothes to the Man Factory.",
+          "There is one man who had been imprisoned for calling the queen's hair red instead of auburn; his cell has a small window overlooking his town, where he saw five funerals proceed from his house over the years, leading him to believe he had one family member still living."
+        ],
+        [
+          "The Yankee takes him to his home to find out which one is still alive, and he discovers all of them alive and prospering--Le Fay had invented the funerals to torture him with grief and wonder at which was the surviving relative.",
+          "Five prisoners' names, offenses, and dates of incarceration have been long forgotten, but it never occurred to the queen to set them free when she inherited them.",
+          "Sandy continues her story to explain the seven knights who yielded to the Yankee were a duke and his sons who had previously been overcome by Sir Marhaus."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "What happens to Harry’s new broomstick?",
+          "answers": [
+            "It breaks",
+            "It is confiscated",
+            "It is stolen",
+            "It malfunctions"
+          ],
+          "label": 1,
+          "p_label": 1
+        },
+        {
+          "question": "What does Harry need to summon a Patronus?",
+          "answers": [
+            "Rage",
+            "Confidence",
+            "Happy thoughts",
+            "Assistance from Hermione"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "What does Harry fear he will lose access to?",
+          "answers": [
+            "The Marauder’s Map",
+            "His Firebolt",
+            "His parent’s voices",
+            "His fortune at Gringotts"
+          ],
+          "label": 2,
+          "p_label": 2
+        },
+        {
+          "question": "When do Dementors lower their cloaks?",
+          "answers": [
+            "To take a soul",
+            "To show respect",
+            "To escape trouble",
+            "To intimidate others"
+          ],
+          "label": 0,
+          "p_label": 3
+        },
+        {
+          "question": "Why is Ron distraught?",
+          "answers": [
+            "His wand breaks",
+            "He’s worried about Harry",
+            "He is angry at Hermione",
+            "Scabbers is missing"
+          ],
+          "label": 3,
+          "p_label": 3
+        }
+      ],
+      "summary": [
+        [
+          "Harry is miserable about the conversation he overheard, and dangerously angry at Sirius Black.",
+          "Ron and Hermione try to talk him out of doing anything risky, such as pursuing Black for revenge, and as a change of topic and scenery, they decide to visit Hagrid.",
+          "The visit is not a happy one, as Hagrid has just received note that Buckbeak, the hippogriff that attacked the Malfoy, is going to be put to trial in April and potentially executed.",
+          "Harry, Ron, and Hermione comfort Hagrid and then head back to the library to research historical cases in which magical creatures won trials.",
+          "They find nothing hopeful."
+        ],
+        [
+          "On Christmas day, Harry wakes up to find a Firebolt broomstick in his pile of presents.",
+          "Although there is no card, he is thrilled.",
+          "Hermione is wary, and after the Christmas dinner, during which Professor Trelawney predicts several more deaths, Hermione reports the broomstick to Professor McGonagall, who comes into the common room that night to take it away for examination, in case it had been sent by Sirius Black.",
+          "Ron and Harry are furious at Hermione."
+        ],
+        [
+          "Classes resume, and Oliver Wood promises to persuade Professor McGonagall to give back Harry's Firebolt.",
+          "In the meantime, Harry begins meeting weekly with Lupin to practice the anti-Dementor spell, which is intended to conjure up a Patronus, a silvery protective charm.",
+          "Lupin tells Harry to focus on his happiest thought before saying \"Expecto Patronum\" and repelling the Dementor, or in this case, a Boggart that takes the shape of a Dementor around Harry.",
+          "Harry tries this complicated spell several times with varying happy thoughts—flying on a broomstick, winning the House Championship, and leaving Privet Drive for Hogwarts.",
+          "The last thought brings him some success, but he is still weak after the encounter.",
+          "Each time the lesson ends, Lupin gives him chocolate and sends him on his way.",
+          "Harry senses, however, that one reason he is unable to conjure a proper Patronus is that he secretly does not want to do away with hearing his parents' voices ever again."
+        ],
+        [
+          "Time moves on, and Hermione is still overworked with classes; Oliver Wood returns defeated from his visit with Professor McGonagall, who refused to give back the broomstick yet.",
+          "During another lesson with Lupin, Harry inquires what is below a Dementor's cloak.",
+          "Lupin answers that the only people who truly know are not in the state to report it, as the Dementor will only lower its cloak when it is preparing to administer the \"kiss,\" which essentially sucks the soul out of the person who is kissed.",
+          "Lupin adds that the Ministry of Magic has given the Dementors permission to administer the kiss to Black if they find him.",
+          "Harry is a bit shaken by these thoughts as he leaves, and runs into Professor McGonagall, who returns to him the Firebolt.",
+          "That night, the Gryffindor common room is alight with astonishment at Harry's broomstick, and even Hermione looks up from her books to talk with Harry.",
+          "All is well, until Ron returns from his dormitory to report furiously that Scabbers is missing, that his sheets are slightly bloodied and strewn with orange cat hairs."
+        ]
+      ]
+    },
+    {
+      "qa_list": [
+        {
+          "question": "Which friends does Don Quixote find at his house upon his return home?",
+          "answers": [
+            "The bricklayer, the magistrate",
+            "The butcher, the doctor",
+            "The barber, the priest",
+            "The merchant, the apothecary"
+          ],
+          "label": 2,
+          "p_label": 0
+        },
+        {
+          "question": "What do the barber and the priest sort through and destroy in Don Quixote’s home?",
+          "answers": [
+            "His library",
+            "His armory",
+            "His stables",
+            "His pottery collection"
+          ],
+          "label": 0,
+          "p_label": 1
+        },
+        {
+          "question": "What does Don Quixote promise Sancho on the condition he leave his wife and become Quixote’s squire?",
+          "answers": [
+            "A marble castle",
+            "A horse",
+            "A large kingdom",
+            "An isle to govern"
+          ],
+          "label": 3,
+          "p_label": 4
+        },
+        {
+          "question": "Which large objects does Don Quixote mistake for giants?",
+          "answers": [
+            "Houses",
+            "Boulders",
+            "Trees",
+            "Windmills"
+          ],
+          "label": 3,
+          "p_label": 5
+        },
+        {
+          "question": "From whom does Cervantes claim to have bought the manuscript of Don Quixote?",
+          "answers": [
+            "A Moor in Toledo",
+            "A Jew in Malta",
+            "A Christian in Morocco",
+            "A Yankee in Camelot"
+          ],
+          "label": 0,
+          "p_label": 9
+        }
+      ],
+      "summary": [
+        [
+          "A laborer finds Don Quixote lying near the road and leads\nhim home on his mule.",
+          "Don Quixote showers the laborer with chivalric verse,\ncomparing his troubles to those of the great knights about whom\nhe has read.",
+          "The laborer waits for night before entering the town\nwith Don Quixote, in hopes of preserving the wounded man’s dignity.",
+          "But Don Quixote’s friends the barber and the priest are at his house.",
+          "They have just resolved to investigate his books when Don Quixote\nand the laborer arrive.",
+          "The family receives Don Quixote, feeds him,\nand sends him to bed."
+        ],
+        [
+          "The priest and the barber begin an inquisition into Don\nQuixote’s library to burn the books of chivalry.",
+          "Though the housekeeper wants\nmerely to exorcise any spirits with holy water, Don Quixote’s niece\nprefers to burn all the books.",
+          "Over the niece’s and the housekeeper’s\nobjections, the priest insists on reading each book’s title before\ncondemning it.",
+          "He knows many of the stories and saves several of\nthe books due to their rarity or style.",
+          "He suggests that all the poetry\nbe saved but decides against it because the niece fears that Don\nQuixote will then become a poet—a vocation even worse than knight-errant."
+        ],
+        [
+          "The priest soon discovers a book by Cervantes, who he\nclaims is a friend of his.",
+          "He says that Cervantes’s work has clever\nideas but that it never fulfills its potential.",
+          "He decides to keep\nthe novel, expecting that the sequel Cervantes has promised will\neventually be published."
+        ],
+        [
+          "Don Quixote wakes, still delusional, and interrupts the\npriest and the barber.",
+          "Having walled up the entrance to the library,\nthey decide to tell Don Quixote that an enchanter has carried off\nall his books and the library itself.",
+          "That night, the housekeeper\nburns all the books.",
+          "Two days later, when Don Quixote rises from\nbed and looks for his books, his niece tells him that an enchanter\ncame on a cloud with a dragon, took the books due to a grudge he\nheld against Don Quixote, and left the house full of smoke.",
+          "Don\nQuixote believes her and explains that he recognizes this enchanter\nas his archrival, who knows that Don Quixote will defeat the enchanter’s\nfavorite knight."
+        ],
+        [
+          "Don Quixote’s niece begs him to abandon his quest, but\nhe refuses.",
+          "He promises an illiterate laborer, Sancho Panza, that\nhe will make him governor of an isle if Sancho leaves his wife,\nTeresa, and children to become Don Quixote’s squire.",
+          "Sancho agrees,\nand after he acquires a donkey, they ride from the village, discussing\nthe isle."
+        ],
+        [
+          "After a full day, Don Quixote and Sancho come to a field\nof windmills, which Don Quixote mistakes for giants.",
+          "Don Quixote\ncharges at one at full speed, and his lance gets caught in the windmill’s\nsail, throwing him and Rocinante to the ground.",
+          "Don Quixote assures Sancho\nthat the same enemy enchanter who has stolen his library turned\nthe giants into windmills at the last minute."
+        ],
+        [
+          "The two ride on, and Don Quixote explains to Sancho that knights-errant\nshould never complain of injury or hunger.",
+          "He tears a branch from\na tree to replace the lance he broke in the windmill encounter.",
+          "He and Sancho camp for the night, but Don Quixote does not sleep\nand instead stays up all night remembering his love, Dulcinea."
+        ],
+        [
+          "The next day, Don Quixote and Sancho encounter two monks and\na carriage carrying a lady and her attendants.",
+          "Don Quixote thinks\nthat the two monks are enchanters who have captured a princess and\nattacks them, ignoring Sancho’s and the monks’ protests.",
+          "He knocks\none monk off his mule.",
+          "Sancho, believing he is rightly taking spoils\nfrom Don Quixote’s battle, begins to rob the monk of his clothes.",
+          "The monks’ servants beat Sancho, and the two monks ride off."
+        ],
+        [
+          "Don Quixote tells the lady to return to Toboso and present\nherself to Dulcinea.",
+          "He argues with one of her attendants and soon\ngets into a battle with him.",
+          "Cervantes describes the battle in great\ndetail but cuts off the narration just as Don Quixote is about to\ndeliver the mortal blow.",
+          "Cervantes explains that the historical\naccount from which he has been working ends at precisely this point."
+        ],
+        [
+          "Cervantes says he was quite irked by this break in the\ntext, believing that such a knight deserves to have his tale told\nby a great sage.",
+          "He says that he was at a fair in the Spanish city\nof Toledo when he discovered a boy selling Arabic parchments in\nthe street.",
+          "He hired a Moor to read him some of the stories.",
+          "When\nthe Moor began to translate one line about Dulcinea, which read\nthat she was “the best hand at salting pork of any woman in all\nLa Mancha,” Cervantes rushed the Moor to his home to have him translate\nthe whole parchment."
+        ],
+        [
+          "According to Cervantes, the parchment contained the history\nof Don Quixote, written by Cide Hamete Benengeli.",
+          "From this point on,\nCervantes claims, his work is a translation of Benengeli’s story.",
+          "This\nsecond portion of the manuscript begins with the conclusion of the\npreceding chapter’s battle.",
+          "The attendant gives Don Quixote a mighty\nblow, splitting his ear.",
+          "Don Quixote knocks the man down and threatens\nto kill him.",
+          "He spares him when several ladies traveling with the\nman promise that the man will present himself to Dulcinea."
+        ],
+        [
+          "Afterward, Sancho begs Don Quixote to make him governor\nof the isle that he believes they have won in battle.",
+          "Don Quixote\nassures him that he will fulfill his promise soon.",
+          "Sancho then begins\nto worry that the authorities might come after them for beating\nthe lady’s attendant.",
+          "Don Quixote assures Sancho that knights never\ngo to jail, since they are permitted to use violence in the pursuit\nof justice."
+        ],
+        [
+          "Sancho offers to care for Don Quixote’s bleeding ear.",
+          "Don Quixote tells him about the Balsam of Fierbras, which he says\nhas the power to cure any wound and is easy to make.",
+          "Sancho suggests\nthat they could make money by producing the balsam, but Don Quixote dismisses\nthe suggestion.",
+          "Upon seeing the damage the attendant did to his\nhelmet, he swears revenge, but Sancho reminds him that the attendant\npromised to present himself to Dulcinea in return.",
+          "Don Quixote abandons\nhis oath of revenge and swears to maintain a strict lifestyle until\nhe gets a new helmet.",
+          "Unable to secure other lodging, the two sleep\nout under the sky, which pleases Don Quixote’s romantic sensibilities\nbut displeases Sancho."
+        ]
+      ]
+    }
+  ]
+}
