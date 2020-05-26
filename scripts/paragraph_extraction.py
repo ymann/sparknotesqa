@@ -115,8 +115,8 @@ def get_context_chunks(nlp, summary, window_size):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-embedding_method", "--embedding_method", help="Embedding Method")
-    parser.add_argument("-comparison_method", "--comparison_method" help="Comparison Method")
-    parser.add_argument("-pool_method", "--pool_method" help="Pool Method")
+    parser.add_argument("-comparison_method", "--comparison_method", help="Comparison Method")
+    parser.add_argument("-pool_method", "--pool_method", help="Pool Method")
     parser.add_argument("-context_size", "--context_size", type=int, help="Context Size")
     args = parser.parse_args()
     embedding_method = args.embedding_method
@@ -156,7 +156,7 @@ if __name__ == '__main__':
             print(counter)
             print("===========================")
         questions = doc["qa_list"]
-        if comparison_method == "question":
+        if comparison_method == "no_answers":
             question_list = [([qa["question"] for qa in questions if len(qa["answers"]) == 4])]
         elif comparison_method == "correct_answer":
             question_list = [[qa['question'] + '_' + qa['answers'][qa['label']] for qa in questions if len(qa["answers"]) == 4]]
