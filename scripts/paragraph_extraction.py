@@ -73,7 +73,7 @@ def process_section_best_sentence(embedding_method, final_lst, example_id, embed
         example_id = example_id + 1
     return final_lst, example_id
 
-def process_tfidf(vectorizer, use_answers, final_lst, example_id, summary, questions):
+def process_tfidf(vectorizer, final_lst, example_id, summary, questions):
     for j, question in enumerate(questions):
         best_score_q = -1000000
         best_paragraph = 1000000
@@ -168,7 +168,7 @@ if __name__ == '__main__':
             continue
 
         if embedding_method == "tfidf":
-            final_lst, example_id = process_tfidf(vectorizer, use_answers, final_lst, example_id, summary, question_list[0])
+            final_lst, example_id = process_tfidf(vectorizer, final_lst, example_id, summary, question_list[0])
 
         else:
             if embedding_method == "infersent":
@@ -193,7 +193,7 @@ if __name__ == '__main__':
                 final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_questions[0],
                     embedded_summary, summary, questions, False)
 
-    output_file = 'data/paragraph_extracted_data/' + embedding_method + '_' + comparison_method + '_' + context_size + '_processed_data.csv'
+    output_file = 'data/paragraph_extracted_data/' + embedding_method + '_' + comparison_method + '_' + str(context_size) + '.csv'
 
     with open(output_file, 'w+') as file:
         writer = csv.writer(file)

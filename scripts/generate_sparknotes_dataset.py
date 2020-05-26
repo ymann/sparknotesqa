@@ -182,7 +182,7 @@ def create_dataset(summaries, short_qs, keep_analysis):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("-keep_analysis", "--keep_analysis", type=bool, help="Embedding Method")
+    parser.add_argument("-keep_analysis", "--keep_analysis", type=bool, help="Keep Analysis?")
     summaries, short_qs = get_section_mappings(1, 14425)
     args = parser.parse_args()
     book_doc = create_dataset(summaries, short_qs, args.keep_analysis)
