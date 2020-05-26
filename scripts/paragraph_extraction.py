@@ -116,13 +116,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-embedding_method", "--embedding_method", help="Embedding Method")
     parser.add_argument("-comparison_method", "--comparison_method" help="Comparison Method")
+    parser.add_argument("-pool_method", "--pool_method" help="Pool Method")
     parser.add_argument("-context_size", "--context_size", type=int, help="Context Size")
     args = parser.parse_args()
     embedding_method = args.embedding_method
     comparison_method = args.comparison_method
     context_size = args.context_size
-
-    pool_method = 0
+    pool_method = args.pool_method
 
     if embedding_method == "infersent":
         MODEL_PATH = "encoder/infersent2.pkl"
@@ -156,10 +156,13 @@ if __name__ == '__main__':
             print(counter)
             print("===========================")
         questions = doc["qa_list"]
-        question_list = [([qa["question"] for qa in questions if len(qa["answers"]) == 4])]
-        answer_list = [[qa['question'] + '_' + qa['answers'][qa['label']] for qa in questions if len(qa["answers"]) == 4]]
-        #question_list = [qa['question'] + '_' + qa['answers'][0] + '_' + qa['answers'][1]
-        # + '_' + qa['answers'][2] + '_' + qa['answers'][3] for qa in questions if len(qa["answers"]) == 4]
+        if comparison_method == "question":
+            question_list = [([qa["question"] for qa in questions if len(qa["answers"]) == 4])]
+        elif comparison_method == "correct_answer":
+            question_list = [[qa['question'] + '_' + qa['answers'][qa['label']] for qa in questions if len(qa["answers"]) == 4]]
+        elif comparison_method == "all_answers":
+            question_list = [qa['question'] + '_' + qa['answers'][0] + '_' + qa['answers'][1]
+            + '_' + qa['answers'][2] + '_' + qa['answers'][3] for qa in questions if len(qa["answers"]) == 4]
 
         summary = doc["summary"]
         if context_size > 0:
@@ -175,38 +178,24 @@ if __name__ == '__main__':
             if embedding_method == "infersent":
                 embedded_summary = [model.encode(i, bsize=128, tokenize=False, verbose=False) for i in summary]
                 embedded_questions = [model.encode(j, bsize=128, tokenize=False, verbose=False) for j in question_list]
-                embedded_answers = [model.encode(j, bsize=128, tokenize=False, verbose=False) for j in answer_list]
 
             elif embedding_method == "bert":
                 embedded_summary = get_bert_embedding(model, summary)
                 embedded_questions = get_bert_embedding(model, question_list)
-                embedded_answers = get_bert_embedding(model, answer_list)
 
             elif embedding_method == "sentence_bert":
                 embedded_summary = [model.encode(i) for i in summary]
                 embedded_questions = [model.encode(i) for i in question_list]
-                embedded_answers = [model.encode(i) for i in answer_list]
 
-            if use_answers:
-                if pool_method == 0:
-                    final_lst, example_id = process_section_best_sentence(
-                        embedding_method, final_lst, example_id, embedded_answers[0], embedded_summary, summary, questions)
-                elif pool_method == 1:
-                    final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_answers[0],
-                        embedded_summary, summary, questions, True)
-                elif pool_method == 2:
-                    final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_answers[0],
-                        embedded_summary, summary, questions, False)
-            elif not use_answers:
-                if pool_method == 0:
-                    final_lst, example_id = process_section_best_sentence(
-                        embedding_method, final_lst, example_id, embedded_questions[0], embedded_summary, summary, questions)
-                elif pool_method == 1:
-                    final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_questions[0],
-                        embedded_summary, summary, questions, True)
-                elif pool_method == 2:
-                    final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_questions[0],
-                        embedded_summary, summary, questions, False)
+            if pool_method == "best_sentence":
+                final_lst, example_id = process_section_best_sentence(
+                    embedding_method, final_lst, example_id, embedded_questions[0], embedded_summary, summary, questions)
+            elif pool_method == "sum":
+                final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_questions[0],
+                    embedded_summary, summary, questions, True)
+            elif pool_method == "average":
+                final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_questions[0],
+                    embedded_summary, summary, questions, False)
 
     output_file = 'data/paragraph_extracted_data/' + embedding_method + '_' + comparison_method + '_' + context_size + '_processed_data.csv'
 
