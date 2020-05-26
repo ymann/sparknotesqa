@@ -1,4 +1,4 @@
-import codecs, json
+import codecs, json, argparse
 from bs4 import BeautifulSoup
 from spacy.lang.en import English
 
@@ -181,9 +181,11 @@ def create_dataset(summaries, short_qs, keep_analysis):
     return book_doc
 
 if __name__ == '__main__':
-    keep_analysis = True
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-keep_analysis", "--keep_analysis", type=bool, help="Embedding Method")
     summaries, short_qs = get_section_mappings(1, 14425)
-    book_doc = create_dataset(summaries, short_qs, keep_analysis)
+    args = parser.parse_args()
+    book_doc = create_dataset(summaries, short_qs, args.keep_analysis)
 
     with open('data/sparknotes_dataset.json', 'w+') as file:
         json.dump({"data" : book_doc}, file)

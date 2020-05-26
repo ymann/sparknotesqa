@@ -1,4 +1,4 @@
-import torch, csv, json
+import torch, csv, json, argparse
 from spacy.lang.en import English
 from models import InferSent
 from pytorch_pretrained_bert import BertTokenizer, BertModel
@@ -113,10 +113,16 @@ def get_context_chunks(nlp, summary, window_size):
     return sentencized_chunks
 
 if __name__ == '__main__':
-    embedding_method = "sentence_bert"
-    use_answers = True
-    context_size = -1
-    pool_method = 1
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-embedding_method", "--embedding_method", help="Embedding Method")
+    parser.add_argument("-comparison_method", "--comparison_method" help="Comparison Method")
+    parser.add_argument("-context_size", "--context_size", type=int, help="Context Size")
+    args = parser.parse_args()
+    embedding_method = args.embedding_method
+    comparison_method = args.comparison_method
+    context_size = args.context_size
+
+    pool_method = 0
 
     if embedding_method == "infersent":
         MODEL_PATH = "encoder/infersent2.pkl"
@@ -138,7 +144,7 @@ if __name__ == '__main__':
     nlp = English()
     nlp.add_pipe(nlp.create_pipe('sentencizer'))
 
-    with open('semanticsearch/data/sparknotes_dataset.json', 'r') as f:
+    with open('data/sparknotes_dataset.json', 'r') as f:
         book_doc = json.load(f)
 
     final_lst = []
@@ -202,10 +208,7 @@ if __name__ == '__main__':
                     final_lst, example_id = process_section_pool(embedding_method, final_lst, example_id, embedded_questions[0],
                         embedded_summary, summary, questions, False)
 
-    if use_answers:
-        output_file = 'semanticsearch/data/paragraph_extracted_data/' + embedding_method + '_processed_data_answers.csv'
-    else:
-        output_file = 'semanticsearch/data/paragraph_extracted_data/' + embedding_method + '_processed_data.csv'
+    output_file = 'data/paragraph_extracted_data/' + embedding_method + '_' + comparison_method + '_' + context_size + '_processed_data.csv'
 
     with open(output_file, 'w+') as file:
         writer = csv.writer(file)

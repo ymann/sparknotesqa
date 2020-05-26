@@ -1,4 +1,4 @@
-import json, random
+import json, random, argparse
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer
@@ -90,16 +90,20 @@ def get_random_paragraphs(length):
     ranked_paragraphs = []
     for i in range(5):
         lst = [i for i in range(length)]
-        # print(lst)
-        # print(length)
         ranked_paragraphs.append(random.sample(lst, length))
     return ranked_paragraphs
 
 if __name__ == '__main__':
-    embedding_method = "random"
-    comp_method = 3
-    context_size = -1
-    pool_method = 1
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-embedding_method", "--embedding_method", help="Embedding Method")
+    parser.add_argument("-comparison_method", "--comparison_method", type=int, help="Comparison Method")
+    parser.add_argument("-context_size", "--context_size", type=int, help="Context Size")
+    args = parser.parse_args()
+
+    embedding_method = args.embedding_method
+    comp_method = args.comparison_method
+    context_size = args.context_size
+    pool_method = 0
 
     if embedding_method == "sentence_bert":
         model = SentenceTransformer('bert-base-nli-mean-tokens')
@@ -127,8 +131,6 @@ if __name__ == '__main__':
             question_list = [[qa['question'] + '_' + qa['answers'][i] for i in range(4) for qa in questions if len(qa["answers"]) == 4]]
 
         summary = doc["summary"]
-        # if context_size > 0:
-        #     summary = get_context_chunks(nlp, summary, context_size)
 
         if len(summary) == 0 or len(question_list) == 0 or [] in question_list or [] in summary:
             continue
@@ -144,7 +146,7 @@ if __name__ == '__main__':
             ranked_paragraphs = get_random_paragraphs(len(summary))
         p_labels = [qa['p_label'] for qa in questions if len(qa['answers']) == 4]
         rankings.extend(zip(ranked_paragraphs, p_labels))
-    print(calculate_mmr(rankings))
+    print("MMR Score: %d" % calculate_mmr(rankings))
 
 
 
