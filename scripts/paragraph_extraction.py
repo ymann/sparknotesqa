@@ -62,7 +62,6 @@ def process_section_best_sentence(embedding_method, final_lst, example_id, embed
                 sim = get_cosine_similarity(e_qa.reshape(1, -1), e_sentence.reshape(1, -1))
                 if sim > best_score_p:
                     best_score_p = sim
-            print(best_score_p)
             if best_score_p > best_score_a:
                 best_score_a = best_score_p
                 best_paragraph = i
@@ -87,10 +86,7 @@ def process_tfidf(vectorizer, use_answers, final_lst, example_id, summary, quest
                 best_score_q = sim
                 best_paragraph = i
         answers = questions[j]["answers"]
-        if j < len(questions) and best_paragraph < len(summary):
-            row = [example_id, questions[j]["question"], " ".join(summary[best_paragraph])]
-        else:
-            print(str(i) + " " + str(j))
+        row = [example_id, questions[j]["question"], " ".join(summary[best_paragraph])]
         row.extend(answers)
         row.append(questions[j]["label"])
         final_lst.append(row)
