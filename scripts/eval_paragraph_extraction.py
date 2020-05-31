@@ -96,7 +96,7 @@ def get_random_paragraphs(length):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-embedding_method", "--embedding_method", help="Embedding Method")
-    parser.add_argument("-comparison_method", "--comparison_method", type=int, help="Comparison Method")
+    parser.add_argument("-comparison_method", "--comparison_method", help="Comparison Method")
     parser.add_argument("-context_size", "--context_size", type=int, help="Context Size")
     args = parser.parse_args()
 
@@ -122,12 +122,12 @@ if __name__ == '__main__':
             print("===========================")
         questions = doc["qa_list"]
 
-        if comp_method == 0:
+        if comp_method == "no_answers":
             question_list = [[qa["question"] for qa in questions if len(qa["answers"]) == 4]]
-        elif comp_method == 1:
+        elif comp_method == "all_answers":
             question_list = [[qa['question'] + '_' + qa['answers'][0] + '_' + qa['answers'][1] + '_' + qa['answers'][2] + '_' +
             qa['answers'][3] for qa in questions if len(qa["answers"]) == 4]]
-        else:
+        elif comp_method == "correct_answer":
             question_list = [[qa['question'] + '_' + qa['answers'][i] for i in range(4) for qa in questions if len(qa["answers"]) == 4]]
 
         summary = doc["summary"]

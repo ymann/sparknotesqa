@@ -29,7 +29,7 @@ Generate the train, validation, and test sets:
 python scripts/splitdata.py
 ``` 
 
-## 3. Run the fine-tuning model
+## 3. Clone the fine-tuning model
 Clone the Hugging Face transformers library:
 
 ```
@@ -78,7 +78,7 @@ First, clone the repo:
 git clone --branch v1.3.2  --recursive https://github.com/nyu-mll/jiant.git jiant
 ```
 
-Follow the steps here: https://github.com/nyu-mll/jiant/edit/master/tutorials/setup_tutorial.md to finish setup. Once setup, copy superGLUE_RTE.jsonl from sparknotesqa/data to the RTE directory to the data directory you created during setup and copy superglue_exp.conf to /jiant/jiant/config.
+Follow the steps here: https://github.com/nyu-mll/jiant/edit/master/tutorials/setup_tutorial.md to finish setup. Once setup, copy superGLUE_RTE.jsonl from sparknotesqa/data to the data directory you created inside the RTE directory and copy superglue_exp.conf to /jiant/jiant/config.
 
 ## 2. Run BERT model
 To run the model -

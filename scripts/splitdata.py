@@ -28,7 +28,7 @@ def  main(train_data, val_data):
     val_data = _read_csv(val_data)
     train, val, test = list_splitter(train_test_data, val_data)
 
-    base_data_dir = "data/"
+    base_data_dir = "splitdata/"
     os.mkdir(base_data_dir)
     _write_csv(base_data_dir + "train.csv", train)
     _write_csv(base_data_dir + "val.csv", val)
