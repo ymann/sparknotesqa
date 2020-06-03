@@ -2,6 +2,8 @@
 
 # Running the Sparknotes models
 
+There is a colab notebook (sparknotesqa/sparknotesqa.ipynb) to easily run this pipeline.
+
 ## 1. Paragraph extraction
 From the main directory, run paragraph_extraction.py to generate the paragraph extracted data. Note that for Infersent you must first download fastText vectors:
 
