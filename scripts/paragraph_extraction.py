@@ -44,11 +44,12 @@ def process_section_pool(embedding_method, final_lst, example_id, embedded_qa, e
             if sim > best_score_a:
                 best_score_a = sim
                 best_paragraph = i
-        answers = questions[j]["answers"]
-        row = [example_id, questions[j]["question"], " ".join(summary[best_paragraph])]
-        row.extend(answers)
-        row.append(questions[j]["label"])
-        final_lst.append(row)
+        if j < len(questions):
+            answers = questions[j]["answers"]
+            row = [example_id, questions[j]["question"], " ".join(summary[best_paragraph])]
+            row.extend(answers)
+            row.append(questions[j]["label"])
+            final_lst.append(row)
         example_id = example_id + 1
     return final_lst, example_id
 
@@ -65,11 +66,12 @@ def process_section_best_sentence(embedding_method, final_lst, example_id, embed
             if best_score_p > best_score_a:
                 best_score_a = best_score_p
                 best_paragraph = i
-        answers = questions[j]["answers"]
-        row = [example_id, questions[j]["question"], " ".join(summary[best_paragraph])]
-        row.extend(answers)
-        row.append(questions[j]["label"])
-        final_lst.append(row)
+        if j < len(questions):
+            answers = questions[j]["answers"]
+            row = [example_id, questions[j]["question"], " ".join(summary[best_paragraph])]
+            row.extend(answers)
+            row.append(questions[j]["label"])
+            final_lst.append(row)
         example_id = example_id + 1
     return final_lst, example_id
 
